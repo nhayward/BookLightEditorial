@@ -34,10 +34,8 @@ form:
             recaptcha_secret: 6Le2RRsUAAAAAGEXzoCTMEYQ_y3qGdFNf66d15PE
         - email:
             from: "{{ config.plugins.email.from }}"
-            to:
-              - "{{ config.plugins.email.to }}"
-              - "{{ form.value.email }}"
-            subject: "[Feedback] {{ form.value.name|e }}"
+            to: "{{ config.plugins.email.to }}"
+            subject: "[Inquiry] {{ form.value.name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
             fileprefix: inquiry-
