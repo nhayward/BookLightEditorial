@@ -1,0 +1,17 @@
+{% for box in page.content|split('<hr />') %}
+	{% if loop.index is odd %}
+		<div class="pure-g modular-row box-row">
+			<div class="block pure-u-2-3">
+				<div class="box drop-cap">
+					{{ box }}
+				</div>
+			</div>
+	{% elseif loop.index is even %}
+			<div class="block pure-u-2-3 right-column">
+				<div class="box drop-cap">
+					{{ box }}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+{% endfor %}
