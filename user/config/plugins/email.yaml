@@ -1,17 +1,13 @@
 enabled: true
 from: editor@booklighteditorial.com
-from_name: Senior Editor
 to: nhayward2011@gmail.com
-to_name: Senior Developer
 mailer:
   engine: mail
   smtp:
     server: localhost
     port: 25
     encryption: none
-    user: ''
-    password: ''
   sendmail:
-    bin: '/usr/sbin/sendmail'
+    bin: /usr/sbin/sendmail
 content_type: text/html
 debug: false

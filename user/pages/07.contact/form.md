@@ -35,12 +35,12 @@ form:
         - email:
             from: "{{ config.plugins.email.from }}"
             to:
-              - "{{ config.plugins.email.from }}"
+              - "{{ config.plugins.email.to }}"
               - "{{ form.value.email }}"
             subject: "[Feedback] {{ form.value.name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
-            fileprefix: feedback-
+            fileprefix: inquiry-
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
