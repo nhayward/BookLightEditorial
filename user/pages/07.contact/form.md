@@ -17,6 +17,24 @@ form:
           type: email
           validate:
             required: true
+        - name: service
+          label: Service
+          placeholder: Choose the service you're looking for
+          type: select
+          options:
+            developmental: Developmental Editing
+            coaching: Writing Coaching
+            assessment: Manuscript Assessment
+            ebook: E-book Quality Assurance
+            unsure: Not sure yet...
+          validate:
+            required: true
+        - name: message
+          label: Message
+          placeholder: Enter your message
+          type: textarea
+          validate:
+            required: true
         - name: g-recaptcha-response
           label: Captcha
           type: captcha
@@ -46,6 +64,8 @@ form:
         - display: thankyou
 ---
 
-# My Form
+**Do you have any questions?**
 
-Regular **markdown** content goes here...
+Please send me a message and I promise I will get back to you within one business day!
+
+If you are looking for an estimate, include an approximate word count, type of story/genre, and what services you have your eye on.
