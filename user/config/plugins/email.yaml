@@ -1,7 +1,7 @@
 enabled: true
 from: editor@booklighteditorial.com
 from_name: Book Light Editorial
-to: nhayward2011@gmail.com
+to: carlyt.bornstein@gmail.com
 mailer:
   engine: mail
   smtp:
