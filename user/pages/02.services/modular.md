@@ -11,4 +11,5 @@ content:
         custom:
             - _services
             - _quick-form
+            - _bottom-content
 ---
