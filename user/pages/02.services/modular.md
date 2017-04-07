@@ -1,8 +1,7 @@
 ---
-title: Editing Services
+title: 'Editing Services'
 onpage_menu: false
-body_classes: "modular"
-
+body_classes: modular
 content:
     items: '@self.modular'
     order:

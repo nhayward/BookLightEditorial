@@ -72,12 +72,12 @@ visible: false
 
 ---
 
->As far as Carly goes, she offers the complete experience. Her process for developmental editing leaves no stone unturned and assures that every facet, both in the perspective of grammar and storytelling are covered and revised for a more fulfilling literary experience. I was completely satisfied with working with Ms. Bornstein.
+>As far as Carly goes, she offers the complete experience. Her process for developmental editing leaves no stone unturned and assures that every facet, both in the perspective of grammar and storytelling are covered and revised for a more fulfilling literary experience. I was completely satisfied with working with Carly.
 
 -Theo Taylor, Sci-fi and Fantasy author
 
 ---
 
->Unprepared to finish a sleek piece, I was on edge. I discovered that the editing assistance of Ms. Bornstein is not only a strong choice, but essential, as she delivered on all fronts and was overall flawless. This client considers her at the top of his list.
+>Unprepared to finish a sleek piece, I was on edge. I discovered that the editing assistance of Carly is not only a strong choice, but essential, as she delivered on all fronts and was overall flawless. This client considers her at the top of his list.
 
 -Spencer English, Staff Writer at AV Wire

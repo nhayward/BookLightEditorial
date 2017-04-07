@@ -1,27 +1,43 @@
 ---
-title: Service Boxes
+title: 'Service Boxes'
 routable: false
 visible: false
 ---
 
-D**evelopmental Editing:** This is for authors who have a completed manuscript. The editor looks through the manuscript to help with pace, characters, plot issues, structure, and voice. It takes a close look at each individual sentence. The editor looks at each sentence and the story as a whole to help with clarity and structure. This results in a report full of feedback and a manuscript returned with in-line edits, comments, and possible changes marked throughout.
+D**evelopmental Edit:** When you have taken your piece as far as you can on your own, it is time for a developmental edit. This edit will help you refine your writing by working on story structure, pacing, character development, voice, clarity, and plot. It looks at the big picture as well as writing technique. This results in a 5-8 page letter itemizing improvements to your manuscript as well as comprehensive in-line edits that point to problems within the manuscript and helps improve your writing at a sentence level.
+
+**Cost:** $0.02-$0.03 a word. Prices vary based on the length and complexity of the work.
 
 <a class="quick-contact-button" href="#" data-featherlight=".modular-row.form" data-select="developmental">I want this!</a>
 
 ---
 
-W**riting Coaching:** This is for authors that have a solid idea of what they want their book to be, but haven't written it yet. The editor encourages your writing and gives you advice as you write. They also shape the story arc, help you to organize your thoughts, clarify for the reader, and focus your story. In order to provide focused and equal time to all of the editor's monthly clients, they will set aside specific days to focus on your project and respond to your questions. Writing coaching includes two phone calls a month, detailed emailing once a week, and editing pages as you go. The first month includes outline writing and editing of the first twenty pages; every additional month includes fifty pages of editing.
+M**anuscript Assessment:** If you are on a tight budget or are looking for a developmental editor’s eye without the in-line edits, then you want a manuscript assessment. The editor will read your manuscript and send back an in-depth critique discussing big-picture edits. This can be for completed or unfinished works depending on what stage you want the editor to review it. This results in a 5-8 page letter but no in-line edits. 
 
-<a class="quick-contact-button" href="#" data-featherlight=".modular-row.form" data-select="coaching">I want this!</a>
-
----
-
-M**anuscript Assessment:** This is for authors on a tighter budget. You want an editor's eye but you can't afford a full developmental edit. The editor will read your manuscript and send back an overview discussing major changes and suggestions. This can be for completed or unfinished works depending on what stage you want the editor to review it. There will be no in-line edits.
+**Cost:** $0.005 a word, $350 minimum.
 
 <a class="quick-contact-button" href="#" data-featherlight=".modular-row.form" data-select="assessment">I want this!</a>
 
 ---
 
-E**-book Quality Assurance:** This takes a look at the complete or published e-book and reads through the entire book looking for layout errors or other errors introduced while converting a manuscript into an e-book.
+P**artial Developmental Edit and Assessment Package:** Can’t decide between a full developmental edit and an assessment? This package gives you the best of both worlds. You get an in-depth critique on the full manuscript as well as in-line edits for part of the manuscript. This package allows you to tackle the larger issues while getting in-line edits that you can then apply to the rest of the manuscript. It is up to you how much of your manuscript has in-line edits, but we recommend the first 50 pages.
+
+**Cost:** $0.005 a word for the full manuscript plus $0.015 a word for the in-line edits (calculated based on the number of words receiving in-line edits). This complicated math results in a flat rate.
+
+<a class="quick-contact-button" href="#" data-featherlight=".modular-row.form" data-select="coaching">I want this!</a>
+
+---
+
+W**riting Coach:** Are you having trouble finishing your manuscript? Do you keep getting stuck or are you worried that you are going in the wrong direction? Then writing coaching could be perfect for you! They’ll encourage your writing and give you advice as you write. The coach will help shape the story arc and focus your story while editing your chapters as you go. This results in weekly or monthly discussions of your book as well as in-line edits of pages. Every client has a different time and schedule so this service can be customized to fit your writing habits.
+
+**Cost:** $200-$500 a month depending upon proliferation of work. As this is a very personal service, projects need to be analyzed before accepted.
+
+<a class="quick-contact-button" href="#" data-featherlight=".modular-row.form" data-select="coaching">I want this!</a>
+
+---
+
+S**econd-Read Review:** After you have already had a developmental edit, an assessment, or you’ve been coached by us, you can have us read the piece again and review your changes. After you have made substantial edits it can be hard to tell if the edits were an improvement, if you need to go even further, or if they didn’t work at all. This results in 1-2 page critique of your edited manuscript.
+
+Cost: $0.003 a word, $175 minimum.
 
 <a class="quick-contact-button" href="#" data-featherlight=".modular-row.form" data-select="ebook">I want this!</a>
