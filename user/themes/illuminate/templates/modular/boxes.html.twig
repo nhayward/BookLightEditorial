@@ -6,6 +6,9 @@
 					{{ box }}
 				</div>
 			</div>
+		{% if loop.last %}
+		</div>
+		{% endif %}
 	{% elseif loop.index is even %}
 			<div class="block pure-u-2-3 right-column">
 				<div class="box drop-cap">
