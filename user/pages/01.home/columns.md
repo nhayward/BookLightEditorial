@@ -2,41 +2,20 @@
 title: Home
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+### <p style="text-align: center;">We'll help you bring your book to light</p>
 
 <div class="drop-cap" markdown="1">
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started. Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started. Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started. Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started. Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
+Book Light Editorial exists to help refine your vision and make your book the best possible version of itself. We can take your manuscript and develop it until it is the book you envisioned.
 </div>
+##### What does that mean?
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+Well, we suggest starting with a developmental edit. This type of edit looks at the big-picture aspects of your manuscript, such as plot, character development, story arc, and pacing. It helps make sure you are accurately conveying your vision to readers and that your story is something that will hook readers in and maintain their interest.
 
-### Find out all about Grav
+After that, it is time for a copyedit. Copyediting works on the spelling, grammar, punctuation, and consistency within your book. No author can catch all the typos within a manuscript; you see what you expect to read, not what is actually on the page. Copyeditors provide fresh eyes with which to spot these gaps. This is the final polish before a manuscript is ready to become a published book.
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+##### Are you ready to dive into the wonderful world of editing?
 
-### Edit this Page
-
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
-
-### Create a New Page
-
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
-
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `02.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/02.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
+[![Editing Services](Book_Light_Editorial_services.png)](http://www.carlybornstein.com/ble/services) [![The Team](book_light_editorial_team.png)](http://www.carlybornstein.com/ble/about)
 
 ###### Sidebar
 
