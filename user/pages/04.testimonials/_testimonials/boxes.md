@@ -1,5 +1,5 @@
 ---
-title: Testimonial Boxes
+title: 'Testimonial Boxes'
 routable: false
 visible: false
 ---
@@ -45,6 +45,12 @@ visible: false
 >I was lucky enough to win a Developmental Edit with Carly as part of an online writing contest. Carly helped me sort through all the weaknesses in my manuscript and gave me suggestions on how it could improve. She also helped me polish up my query letter so I could have the best possible chance with agents. She helped me make my story the best it could be and I'd recommend her to anyone looking to take their manuscript to the next level. Thanks Carly!
 
 -Liz Kelly
+
+---
+
+>Carly understood exactly what I was looking for and accommodated both my needs and budget. Her manuscript assessment allowed me to focus on the weakest points of my story so I could determine the best use of my time and energy as I tackled further editing rounds. During the process, she was responsive and very encouraging.
+
+-Clara MacCarald, Romance and Young Adult Author
 
 ---
 
