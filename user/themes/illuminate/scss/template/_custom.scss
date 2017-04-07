@@ -25,6 +25,17 @@ section#body {
 		padding-left: 3px;
 	}
 
+	.quick-contact-button {
+		border-radius: 5px;
+		padding: 10px 20px;
+		background-color: #903;
+		color: white;
+	}
+
+	#quick_contact_form + .modular-row.form {
+		display: none;
+	}
+
 	#book_lightslider-wrapper {
 
 		#book_lightslider {
@@ -78,4 +89,17 @@ section#body {
 		}
 
 	}
+}
+
+body#top {
+
+	.featherlight {
+
+		.featherlight-content {
+			border-radius: 5px;
+			padding: 15px 20px 0;
+		}
+
+	}
+
 }

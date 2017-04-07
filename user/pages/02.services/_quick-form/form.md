@@ -1,5 +1,7 @@
 ---
-title: Contact
+title: Quick Contact Form
+routable: false
+visible: false
 form:
     name: Contact Form
     fields:
@@ -18,8 +20,8 @@ form:
           validate:
             required: true
         - name: service
+          id: service-select
           label: Service
-          placeholder: Choose the service you're looking for
           type: select
           options:
             developmental: Developmental Editing
@@ -56,9 +58,3 @@ form:
         - message: Thank you for your interest!
         - display: thankyou
 ---
-
-**Do you have any questions?**
-
-Please send me a message and I promise I will get back to you within one business day!
-
-If you are looking for an estimate, include an approximate word count, type of story/genre, and what services you have your eye on.

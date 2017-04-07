@@ -10,4 +10,5 @@ content:
         dir: asc
         custom:
             - _services
+            - _quick-form
 ---
