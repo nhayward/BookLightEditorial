@@ -51,7 +51,7 @@ form:
             subject: "[Inquiry] {{ form.value.name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
         - save:
-            fileprefix: inquiry-
+            fileprefix: "[Inquiry] {{ form.value.name|e }} - "
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
