@@ -13,7 +13,7 @@ taxonomy:
         - romance
 ---
 
-##### By Carly Bornstein
+##### By Carly Bornstein-Hayward
 
 So excited for Cheryl Harper’s new book, **Least Likely to Fall in Love**!
 

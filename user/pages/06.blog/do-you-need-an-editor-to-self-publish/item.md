@@ -11,6 +11,8 @@ taxonomy:
         - 'self publishing'
 ---
 
+#### By Carly Bornstein-Hayward
+
 You are self-publishing, so why do you need an editor? You know your book better than anyone else right? An editor will just twist it into something different, something wrong, they won’t understand it.
 
 But that is not true at all! An editor can see things you can’t. An editor wants to help you make your book into what you envision. The type of editor to help you do that is a developmental editor (Yes, I know, there are so many different types of editors!).
