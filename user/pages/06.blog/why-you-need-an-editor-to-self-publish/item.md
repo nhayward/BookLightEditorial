@@ -1,5 +1,5 @@
 ---
-title: 'Do You Need an Editor to Self-Publish?'
+title: 'Why You Need an Editor to Self-Publish'
 date: '07-04-2015 00:00'
 taxonomy:
     category:
@@ -13,11 +13,11 @@ taxonomy:
 
 #### By Carly Bornstein-Hayward
 
-You are self-publishing, so why do you need an editor? You know your book better than anyone else right? An editor will just twist it into something different, something wrong, they won’t understand it.
+_You are self-publishing, so why do you need an editor? You know your book better than anyone else right? An editor will just twist it into something different, something wrong, they won’t understand it._
 
 But that is not true at all! An editor can see things you can’t. An editor wants to help you make your book into what you envision. The type of editor to help you do that is a developmental editor (Yes, I know, there are so many different types of editors!).
 
-![](Editing_image.jpg?cropResize=300,300)
+![](CB_Editing_manuscript.jpg?cropResize=350,350)
 
 When you have finished your manuscript, when you believe you have written all you can write, that is when you seek out a good developmental editor. When you go the traditional publishing route your main editor is essentially a developmental editor. They are the editor that gets to know your book as if they had written it.
 
