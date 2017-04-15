@@ -38,7 +38,6 @@
             {% endif %}
             {{ header_image_media.cropZoom(header_image_width, header_image_height).html }}
         {% endif %}
-
     </div>
 
     <div class="list-blog-padding">
@@ -47,6 +46,9 @@
         <div class="e-content">        
             {{ page.content }}
         </div>
+
+        {% include 'partials/socialbuttons.html.twig' with {'url' : page.url} %}
+
         {% if not truncate %}
         	<p class="prev-next">
         	    {% if not page.isFirst %}
@@ -72,6 +74,8 @@
         <div class="e-content">
             {{ page.content }}
         </div>
+
+        {% include 'partials/socialbuttons.html.twig' with {'url' : page.url} %}
 
         <p class="prev-next">
             {% if not page.isFirst %}

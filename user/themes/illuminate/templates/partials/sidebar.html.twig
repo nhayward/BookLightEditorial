@@ -1,6 +1,8 @@
 {% set feed_url = blog.url == '/' or blog.url == base_url_relative ? (base_url_relative~'/'~blog.slug) : blog.url %}
 {% set new_base_url = blog.url == '/' ? '' : blog.url %}
 
+{% include 'partials/socialbuttons.html.twig' with {'url' : page.url} %}
+
 {% if config.plugins.simplesearch.enabled %}
 <div class="sidebar-content">
     <h4>{{ 'SIDEBAR.SIMPLE_SEARCH.HEADLINE'|t }}</h4>
