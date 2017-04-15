@@ -812,12 +812,14 @@ section#body .about-right {
   @media only all and (max-width: 47.938em) {
     section#body .about-right {
       padding-left: 0; } }
-section#body #about_lightslider-wrapper #about_lightslider li {
-  height: 100%; }
-  section#body #about_lightslider-wrapper #about_lightslider li img {
-    max-height: 400px;
-    width: auto;
-    margin: auto; }
+section#body #about_lightslider-wrapper #about_lightslider {
+  height: 400px !important; }
+  section#body #about_lightslider-wrapper #about_lightslider li {
+    height: 100%; }
+    section#body #about_lightslider-wrapper #about_lightslider li img {
+      max-height: 400px;
+      width: auto;
+      margin: auto; }
 section#body #book_lightslider-wrapper #book_lightslider li {
   height: 250px;
   width: 170px; }
