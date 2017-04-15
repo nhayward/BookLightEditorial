@@ -1,0 +1,16 @@
+{% block content %}
+    <div class="pure-g">
+        {% for column in page.content|split('<hr />') %}
+        	{% if loop.first %}
+	        	<div class="about-left block size-1-3 pure-u-1-3">
+	            	{{ column }}
+	        	</div>
+	        {% elseif loop.last %}
+        		<div class="about-right block pure-u-2-3">
+        	    	{{ column }}
+        		</div>
+        	{% endif %}
+        {% endfor %}
+    </div>
+    <hr>
+{% endblock %}

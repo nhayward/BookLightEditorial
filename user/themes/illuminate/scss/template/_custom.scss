@@ -36,6 +36,46 @@ section#body {
 		display: none;
 	}
 
+	.about-left {
+
+		img.profile {
+			width: 352px;
+		}
+
+		img.org {
+			padding: 0 10px 10px 0;
+		}
+
+	}
+
+	.about-right {
+		padding-left: 3rem;
+
+	    @include breakpoint(mobile-only) {
+	        padding-left: 0;
+	    }
+
+	}
+
+	#about_lightslider-wrapper {
+
+		#about_lightslider {
+
+			li {
+				height: 100%;
+
+				img {
+					max-height: 400px;
+					width: auto;
+					margin: auto;
+				}
+
+			}
+
+		}
+		
+	}
+
 	#book_lightslider-wrapper {
 
 		#book_lightslider {
