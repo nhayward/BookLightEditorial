@@ -7,7 +7,9 @@ title: Carly
 ---
 #### Carly Bornstein-Hayward
 
-Carly Bornstein-Hayward is a developmental editor and writing coach that will help you find your voice and bring your vision to the reader. Editing combines her creativity and her love of reading, giving advice, and logic puzzles. Carly will be your book’s best friend.
+_**Senior Developmental Editor & Founder**_
+
+Carly is a developmental editor and writing coach that will help you find your voice and bring your vision to the reader. Editing combines her creativity and her love of reading, giving advice, and logic puzzles. Carly will be your book’s best friend.
 
 She has worked in the publishing industry for 9 years, including at a big 5 publishing house, a literary agency, and an indie publishing house that helps indie-authors. That experience has helped her to see the industry from all different angles. Carly graduated Magna Cum Laude with a B.A. in English. She is a member of the Editorial Freelancers Association and Chicago Women in Publishing, and was a panelist at Book Expo America 2016. Carly is a co-founder and editor for Revise & Resub, a pitch event, and an editor for the ShoreIndie Contest.
 
