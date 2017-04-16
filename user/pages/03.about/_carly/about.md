@@ -4,12 +4,6 @@ title: Carly
 
 ![Carly Hayward](Book_Light_Editorial_Carly_Hayward.jpg){.profile}
 
-[![EFA](EFA_logo_85.png){.org}](http://www.the-efa.org/?target=_blank)
-[![CWIP](CWIPlogo.png){.org}](http://www.cwip.org/members/carlybornstein/profile/?target=_blank)
-[![Rev Pit](RevPit_hashtag_logo_small.png){.org}](http://www.reviseresub.com/?target=_blank)
-[![Shore Indie](shoreindie_editorbadge.png){.org}](https://shoreindie.blogspot.com/?target=_blank)
-[![Book Expo America Panelist](BEA-Logo_panelist.png){.org}](http://www.bookexpoamerica.com/?target=_blank)
-
 ---
 #### Carly Bornstein-Hayward
 
@@ -20,3 +14,9 @@ She has worked in the publishing industry for 9 years, including at a big 5 publ
 ##### Specialties: 
 
 romance, mystery, sci-fi, fantasy, erotica, and young adult fiction
+
+[![EFA](EFA_logo_85.png){.org}](http://www.the-efa.org/?target=_blank)
+[![CWIP](CWIPlogo.png){.org}](http://www.cwip.org/members/carlybornstein/profile/?target=_blank)
+[![Rev Pit](RevPit_hashtag_logo_small.png){.org}](http://www.reviseresub.com/?target=_blank)
+[![Shore Indie](shoreindie_editorbadge.png){.org}](https://shoreindie.blogspot.com/?target=_blank)
+[![Book Expo America Panelist](BEA-Logo_panelist.png){.org}](http://www.bookexpoamerica.com/?target=_blank)
