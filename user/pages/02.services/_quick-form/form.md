@@ -3,7 +3,7 @@ title: Quick Contact Form
 routable: false
 visible: false
 form:
-    name: Contact Form
+    name: Quick Contact Form
     fields:
         - name: name
           label: Name
