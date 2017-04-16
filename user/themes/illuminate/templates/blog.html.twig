@@ -13,7 +13,7 @@
 				{% set blog_image = page.media.images|first %}
 
 				{% if blog_image %}
-					<img src="{{ blog_image.url }}" />
+					<img src="{{ blog_image.url }}" style="width: 100%;" />
 				{% endif %}
 
 				{% for child in collection %}
