@@ -841,6 +841,10 @@ section#body .box-row .box {
   padding: 0 20px;
   border: 1px solid darkgrey;
   border-radius: 5px; }
+section#body img.float-left {
+  float: left; }
+section#body .center {
+  text-align: center; }
 
 body#top .featherlight .featherlight-content {
   border-radius: 5px;
