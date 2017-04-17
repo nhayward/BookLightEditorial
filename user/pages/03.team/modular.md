@@ -1,5 +1,5 @@
 ---
-title: About
+title: The Editors
 onpage_menu: false
 body_classes: "modular"
 
