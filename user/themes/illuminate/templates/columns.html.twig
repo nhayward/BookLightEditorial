@@ -1,6 +1,10 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
+    {% if page.header.heading %}
+        <h3 class="center">{{ page.header.heading }}</h3>
+    {% endif %}
+    
     <div class="pure-g">
         {% for column in page.content|split('<h6>Sidebar</h6>') %}
         	{% if loop.first %}

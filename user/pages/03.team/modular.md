@@ -14,3 +14,5 @@ content:
             - _laura
             - _slider
 ---
+
+<h3 class="center">The Editors</h3>
