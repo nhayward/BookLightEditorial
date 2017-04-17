@@ -1,5 +1,6 @@
 ---
 title: The Editors
+menu: Team
 onpage_menu: false
 body_classes: "modular"
 
