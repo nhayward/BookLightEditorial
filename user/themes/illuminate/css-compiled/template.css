@@ -842,7 +842,8 @@ section#body .box-row .box {
   border: 1px solid darkgrey;
   border-radius: 5px; }
 section#body img.float-left {
-  float: left; }
+  float: left;
+  padding: 0 10px 10px 0; }
 section#body .center {
   text-align: center; }
 
