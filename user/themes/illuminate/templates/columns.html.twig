@@ -1,11 +1,5 @@
 {% extends 'partials/base.html.twig' %}
 
-{# {% block showcase %}
-    <div id="header_image" style="background-image: url({{ url('theme://images/book_light_editorial_openbook_Blurred.jpg') }})">
-        <h3 class="center">We'll help you bring your book to light</h3>
-    </div>
-{% endblock %} #}
-
 {% block content %}
     <div class="pure-g">
         {% for column in page.content|split('<h6>Sidebar</h6>') %}

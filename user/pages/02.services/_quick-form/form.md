@@ -16,6 +16,7 @@ form:
         - name: email
           label: Email
           placeholder: Enter your email address
+          autocomplete: on
           type: email
           validate:
             required: true

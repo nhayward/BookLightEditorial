@@ -7,7 +7,6 @@ form:
             name: name
             label: Name
             placeholder: 'Enter your name'
-            autofocus: 'on'
             autocomplete: 'on'
             type: text
             validate:
@@ -16,6 +15,7 @@ form:
             name: email
             label: Email
             placeholder: 'Enter your email address'
+            autocomplete: 'on'
             type: email
             validate:
                 required: true

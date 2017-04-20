@@ -1,5 +1,6 @@
 ---
 title: 'Editing Services'
+header_image: book_light_editorial_printerkey2_banner.png
 onpage_menu: false
 body_classes: modular
 content:

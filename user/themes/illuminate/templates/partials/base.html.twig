@@ -61,7 +61,11 @@
         </header>
         {% endblock %}
 
-        {% block showcase %}{% endblock %}
+        {% block showcase %}
+            {% if page.header.header_image %}
+                <div id="header_image" style="background-image: url({{ url('theme://images/banners/' ~ page.header.header_image) }})"></div>
+            {% endif %}
+        {% endblock %}
 
         {% block body %}
         <section id="body" class="{{ class }}">
