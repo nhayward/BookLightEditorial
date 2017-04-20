@@ -1,4 +1,12 @@
+$primary: #404040;
+$secondary1: #487A94;
+$secondary2: #E1C29A;
+
 body#top {
+
+	a, h1,	h2,	h3,	h4,	h5,	h6 {
+		color: $secondary1;
+	}
 
 	.featherlight {
 
@@ -9,7 +17,92 @@ body#top {
 
 	}
 
+	header#header {
+		background-color: $primary !important;
+		padding-left: 2rem;
+		padding-right: 2rem;
+
+		#logo {
+			padding: 13px 5px;
+			transition: .5s padding;
+
+			img {
+				width: 400px;
+				transition: .5s width;
+			}
+
+		}
+
+		#navbar {
+
+			li {
+
+				a {
+					color: $secondary2 !important;
+				}
+
+				a:before, a:after {
+					background-color: $secondary2 !important;
+				}
+
+			}
+
+			.menu-btn {
+				color: $secondary2 !important;
+			}
+
+		}
+
+		&.scrolled {
+
+			#logo {
+				padding: 5px;
+
+				img {
+					width: 297px;
+				}
+
+			}
+
+		}
+
+		@media only all and (max-width: 1097px) {
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		@media only all and (max-width: 1033px) {
+
+			#logo {
+				padding: 18px 5px;
+
+				img {
+					width: 325px;
+				}
+
+			}
+
+		}
+
+	}
+
+	// #header_image {
+	// 	position: relative;
+	// 	height: 300px;
+	// 	padding: 0 3rem;
+	// 	background-size: cover;
+
+	// 	h3 {
+	// 		margin: auto;
+	// 		text-align: center;
+	// 		line-height: 365px;
+	// 	}
+
+	// }
+
 	section#body {
+		background-color: #fbfbfb;
+		color: $primary;
 		padding-bottom: 5rem;
 
 		.pure-g {
@@ -27,7 +120,7 @@ body#top {
 		}
 
 		.drop-cap:first-letter {
-			color: #903;
+			color: $secondary2;
 			float: left;
 			font-family: Georgia;
 			font-size: 75px;
@@ -39,13 +132,23 @@ body#top {
 
 		.quick-contact-button {
 			border-radius: 5px;
+			border: 1px solid $secondary1;
 			padding: 10px 20px;
-			background-color: #903;
-			color: white;
+			color: $secondary1;
+			font-weight: bold;
+			transition: .25s all;
+
+			&:hover {
+				background-color: $secondary2;
+			}
 		}
 
 		#quick_contact_form + .modular-row.form {
 			display: none;
+		}
+
+		.modular-row.callout {
+			background-color: inherit;
 		}
 
 		.about-left {
@@ -132,12 +235,23 @@ body#top {
 			padding-top: 4rem;
 		}
 
+		blockquote {
+			border-left: 10px solid lightgrey;
+
+			p {
+				color: #555;
+			}
+
+		}
+
 		.box-row {
 
 			.box {
+				background-color: #f7f7f7;
+				color: black;
 				margin-bottom: 2rem;
 				padding: 0 20px;
-				border: 1px solid darkgrey;
+				border: 2px solid $secondary1;
 				border-radius: 5px;
 			}
 
@@ -152,16 +266,33 @@ body#top {
 			text-align: center;
 		}
 
+		.notices.copper {
+		    border-left: 10px solid $secondary2;
+		    background-color: white;
+		    background-image: url('/user/themes/illuminate/images/book_light_editorial_coffeestain.png');
+		    background-repeat: no-repeat;
+		    background-size: 150px;
+		    background-position: right 10px top 10px;
+		    color: #222;
+		    padding-right: 5px;
+		}
+
 	}
 
 	footer#footer {
 		position: static;
+		background-color: $primary;
 		padding-bottom: 20px;
 		height: auto;
 
 		.totop {
 			position: relative;
 			bottom: 23px;
+
+			span {
+				background-color: $primary;
+			}
+
 		}
 
 		#social-media {
@@ -175,7 +306,7 @@ body#top {
 		}
 
 		#heart-book {
-			margin-bottom: 20px;
+			margin-bottom: 10px;
 		}
 
 		p {

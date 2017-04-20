@@ -44,7 +44,9 @@
         {% block header %}
         <header id="header">
             <div id="logo">
-                <h3><a href="{{ base_url == '' ? '/' : base_url }}">{{ config.site.title }}</a></h3>
+                <a href="{{ base_url == '' ? '/' : base_url }}">
+                    <img src="{{ url('theme://images/book_light_editorial_websitebanner.png') }}" />
+                </a>
             </div>
             <div id="navbar">
                 {% block header_extra %}{% endblock %}
@@ -63,6 +65,9 @@
 
         {% block body %}
         <section id="body" class="{{ class }}">
+            {% if page.header.heading %}
+                <h3 class="center">{{ page.header.heading }}</h3>
+            {% endif %}
             {% block content %}{% endblock %}
         </section>
         {% endblock %}
@@ -78,7 +83,7 @@
                 <a href="https://twitter.com/fromcarly" target="_blank"><img src="{{ url('theme://images/social/twitter.png') }}" /></a>
                 <a href="https://www.facebook.com/cbbookediting" target="_blank"><img src="{{ url('theme://images/social/facebook.png') }}" /></a>
             </div>
-            <img id="heart-book" src="{{ url('theme://images/Book_Light_Editorial_tattoo.jpg') }}" />
+            <img id="heart-book" src="{{ url('theme://images/Book_Light_Editorial_tattooimage.png') }}" />
             <p>Created by <a target="_blank" href="https://twitter.com/WebwardCo">Webward Co</a>.</p>
             <p>Content copyright 2017. Carly T. Hayward. All rights reserved.</p>
         </footer>

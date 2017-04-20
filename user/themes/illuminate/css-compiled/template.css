@@ -782,10 +782,43 @@ ul.pagination {
 .simplesearch hr {
   border-bottom: 1px solid #eee; }
 
+body#top a, body#top h1, body#top h2, body#top h3, body#top h4, body#top h5, body#top h6 {
+  color: #487A94; }
 body#top .featherlight .featherlight-content {
   border-radius: 5px;
   padding: 15px 20px 0; }
+body#top header#header {
+  background-color: #404040 !important;
+  padding-left: 2rem;
+  padding-right: 2rem; }
+  body#top header#header #logo {
+    padding: 13px 5px;
+    transition: .5s padding; }
+    body#top header#header #logo img {
+      width: 400px;
+      transition: .5s width; }
+  body#top header#header #navbar li a {
+    color: #E1C29A !important; }
+  body#top header#header #navbar li a:before, body#top header#header #navbar li a:after {
+    background-color: #E1C29A !important; }
+  body#top header#header #navbar .menu-btn {
+    color: #E1C29A !important; }
+  body#top header#header.scrolled #logo {
+    padding: 5px; }
+    body#top header#header.scrolled #logo img {
+      width: 297px; }
+  @media only all and (max-width: 1097px) {
+    body#top header#header {
+      padding-left: 0;
+      padding-right: 0; } }
+  @media only all and (max-width: 1033px) {
+    body#top header#header #logo {
+      padding: 18px 5px; }
+      body#top header#header #logo img {
+        width: 325px; } }
 body#top section#body {
+  background-color: #fbfbfb;
+  color: #404040;
   padding-bottom: 5rem; }
   body#top section#body .pure-g .right-column {
     padding-left: 3rem; }
@@ -793,7 +826,7 @@ body#top section#body {
     body#top section#body .pure-g .right-column {
       padding-left: 0; } }
   body#top section#body .drop-cap:first-letter {
-    color: #903;
+    color: #E1C29A;
     float: left;
     font-family: Georgia;
     font-size: 75px;
@@ -803,11 +836,17 @@ body#top section#body {
     padding-left: 3px; }
   body#top section#body .quick-contact-button {
     border-radius: 5px;
+    border: 1px solid #487A94;
     padding: 10px 20px;
-    background-color: #903;
-    color: white; }
+    color: #487A94;
+    font-weight: bold;
+    transition: .25s all; }
+    body#top section#body .quick-contact-button:hover {
+      background-color: #E1C29A; }
   body#top section#body #quick_contact_form + .modular-row.form {
     display: none; }
+  body#top section#body .modular-row.callout {
+    background-color: inherit; }
   body#top section#body .about-left img.profile {
     width: 352px; }
   body#top section#body .about-left img.org {
@@ -841,30 +880,48 @@ body#top section#body {
     transition: 1s all; }
   body#top section#body #testimonial_boxes {
     padding-top: 4rem; }
+  body#top section#body blockquote {
+    border-left: 10px solid lightgrey; }
+    body#top section#body blockquote p {
+      color: #555; }
   body#top section#body .box-row .box {
+    background-color: #f7f7f7;
+    color: black;
     margin-bottom: 2rem;
     padding: 0 20px;
-    border: 1px solid darkgrey;
+    border: 2px solid #487A94;
     border-radius: 5px; }
   body#top section#body img.float-left {
     float: left;
     padding: 0 10px 10px 0; }
   body#top section#body .center {
     text-align: center; }
+  body#top section#body .notices.copper {
+    border-left: 10px solid #E1C29A;
+    background-color: white;
+    background-image: url("/user/themes/illuminate/images/book_light_editorial_coffeestain.png");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: right 10px top 10px;
+    color: #222;
+    padding-right: 5px; }
 body#top footer#footer {
   position: static;
+  background-color: #404040;
   padding-bottom: 20px;
   height: auto; }
   body#top footer#footer .totop {
     position: relative;
     bottom: 23px; }
+    body#top footer#footer .totop span {
+      background-color: #404040; }
   body#top footer#footer #social-media {
     margin-bottom: 10px; }
     body#top footer#footer #social-media img {
       height: 30px;
       padding: 0 5px; }
   body#top footer#footer #heart-book {
-    margin-bottom: 20px; }
+    margin-bottom: 10px; }
   body#top footer#footer p {
     position: static;
     top: 0;
