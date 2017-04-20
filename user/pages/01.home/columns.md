@@ -1,7 +1,9 @@
 ---
 title: Home
-heading: We'll help you bring your book to light
+header_image: book_light_editorial_bookedges_banner.png
 ---
+
+<h3 class="center">We'll help you bring your book to light</h3>
 
 <div class="drop-cap" markdown="1">
 Book Light Editorial exists to help refine your vision and make your book the best possible version of itself. We can take your manuscript and develop it until it is the book you envisioned.

@@ -99,19 +99,12 @@ body#top {
 
 	}
 
-	// #header_image {
-	// 	position: relative;
-	// 	height: 300px;
-	// 	padding: 0 3rem;
-	// 	background-size: cover;
-
-	// 	h3 {
-	// 		margin: auto;
-	// 		text-align: center;
-	// 		line-height: 365px;
-	// 	}
-
-	// }
+	#header_image {
+		height: 225px;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
 
 	section#body {
 		background-color: #fbfbfb;

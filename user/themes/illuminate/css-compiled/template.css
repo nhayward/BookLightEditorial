@@ -825,6 +825,11 @@ body#top header#header {
       padding: 18px 5px; }
       body#top header#header #logo img {
         width: 325px; } }
+body#top #header_image {
+  height: 225px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
 body#top section#body {
   background-color: #fbfbfb;
   color: #404040;
