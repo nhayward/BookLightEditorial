@@ -3,6 +3,7 @@ title: The Editors
 menu: Team
 onpage_menu: false
 body_classes: "modular"
+heading: The Team
 
 content:
     items: '@self.modular'
@@ -14,5 +15,3 @@ content:
             - _laura
             - _slider
 ---
-
-<h3 class="center">The Editors</h3>

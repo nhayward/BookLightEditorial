@@ -1,8 +1,7 @@
 ---
 title: Home
+heading: We'll help you bring your book to light
 ---
-
-### <p style="text-align: center;">We'll help you bring your book to light</p>
 
 <div class="drop-cap" markdown="1">
 Book Light Editorial exists to help refine your vision and make your book the best possible version of itself. We can take your manuscript and develop it until it is the book you envisioned.
@@ -19,4 +18,7 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 
 ###### Sidebar
 
-! NOTE: The page will automatically show up in the Menu after the "Home" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+!!!!! Curious to learn more? Check out these editor tips on our blog:  
+!!!!! * [How to Find the Right Editor for You](/blog/how-to-find-the-right-editor-for-you)  
+!!!!! * [Why You Need an Editor to Self-Publish](/blog/why-you-need-an-editor-to-self-publish)  
+!!!!! * [Developmental Editing - Your Book's Best Friend](/blog/developmental-editing-your-books-best-friend)
