@@ -2,7 +2,7 @@
 title: Laura
 ---
 
-![Laura Dennison](Book_Light_Editorial_Laura_Dennison.jpg){.profile}!
+![Laura Dennison](Book_Light_Editorial_Laura_Dennison.jpg){.profile}
 
 ---
 #### Laura Dennison
