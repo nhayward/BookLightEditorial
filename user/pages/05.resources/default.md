@@ -88,3 +88,11 @@ Jane Friedman knows everything there is to know about publishing, agents, editor
 
 [Check it out here.](https://janefriedman.com/?target=_blank)
 
+**Manuscript Wishlist:**
+
+![Manuscript Wishlist](MSWL_website.jpg){.float-left}
+
+If you are considering submitting to an agent, Manuscript Wishlist is a great place to start. Most agents will tweet out their manuscript wishlist, which is just the books that they are on the hunt for, using the hashtag #MSWL. Many editors use the hashtag as well. If you don't have time to scour Twitter looking for the perfect #MSWL, this site compiles a lot of them.
+
+[Check it out here.](http://www.manuscriptwishlist.com/?target=_blank)
+
