@@ -784,6 +784,15 @@ ul.pagination {
 
 body#top a, body#top h1, body#top h2, body#top h3, body#top h4, body#top h5, body#top h6 {
   color: #487A94; }
+body#top .button {
+  border-radius: 5px;
+  border: 1px solid #487A94;
+  padding: 10px 20px;
+  color: #487A94;
+  font-weight: bold;
+  transition: .25s all; }
+  body#top .button:hover {
+    background-color: #E1C29A; }
 body#top .featherlight .featherlight-content {
   border-radius: 5px;
   padding: 15px 20px 0; }
@@ -834,15 +843,6 @@ body#top section#body {
     padding-top: 4px;
     padding-right: 8px;
     padding-left: 3px; }
-  body#top section#body .quick-contact-button {
-    border-radius: 5px;
-    border: 1px solid #487A94;
-    padding: 10px 20px;
-    color: #487A94;
-    font-weight: bold;
-    transition: .25s all; }
-    body#top section#body .quick-contact-button:hover {
-      background-color: #E1C29A; }
   body#top section#body #quick_contact_form + .modular-row.form {
     display: none; }
   body#top section#body .modular-row.callout {
@@ -905,6 +905,9 @@ body#top section#body {
     background-position: right 10px top 10px;
     color: #222;
     padding-right: 5px; }
+  body#top section#body .tags a {
+    border-color: #487A94;
+    color: #487A94; }
 body#top footer#footer {
   position: static;
   background-color: #404040;

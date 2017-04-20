@@ -8,6 +8,19 @@ body#top {
 		color: $secondary1;
 	}
 
+	.button {
+		border-radius: 5px;
+		border: 1px solid $secondary1;
+		padding: 10px 20px;
+		color: $secondary1;
+		font-weight: bold;
+		transition: .25s all;
+
+		&:hover {
+			background-color: $secondary2;
+		}
+	}
+
 	.featherlight {
 
 		.featherlight-content {
@@ -128,19 +141,6 @@ body#top {
 			padding-top: 4px;
 			padding-right: 8px;
 			padding-left: 3px;
-		}
-
-		.quick-contact-button {
-			border-radius: 5px;
-			border: 1px solid $secondary1;
-			padding: 10px 20px;
-			color: $secondary1;
-			font-weight: bold;
-			transition: .25s all;
-
-			&:hover {
-				background-color: $secondary2;
-			}
 		}
 
 		#quick_contact_form + .modular-row.form {
@@ -275,6 +275,15 @@ body#top {
 		    background-position: right 10px top 10px;
 		    color: #222;
 		    padding-right: 5px;
+		}
+
+		.tags {
+
+			a {
+				border-color: $secondary1;
+				color: $secondary1;
+			}
+
 		}
 
 	}
