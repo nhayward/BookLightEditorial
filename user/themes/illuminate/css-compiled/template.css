@@ -826,6 +826,11 @@ body#top header#header {
       padding: 18px 5px; }
       body#top header#header #logo img {
         width: 325px; } }
+  @media only all and (max-width: 391px) {
+    body#top header#header #logo {
+      padding: 22px 5px; }
+      body#top header#header #logo img {
+        width: 268px; } }
 body#top #header_image {
   height: 225px;
   background-size: cover;
