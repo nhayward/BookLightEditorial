@@ -854,10 +854,13 @@ body#top section#body {
     padding: 1rem; }
   body#top section#body .about-left img.profile {
     width: 352px; }
-  body#top section#body .about-left img.org {
-    padding: 0 10px 10px 0; }
+  @media only all and (max-width: 47.938em) {
+    body#top section#body .about-left iframe {
+      display: none !important; } }
   body#top section#body .about-right {
     padding-left: 3rem; }
+    body#top section#body .about-right img.org {
+      padding: 0 10px 10px 0; }
     @media only all and (max-width: 47.938em) {
       body#top section#body .about-right {
         padding-left: 0; } }

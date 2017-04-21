@@ -150,14 +150,20 @@ body#top {
 				width: 352px;
 			}
 
-			img.org {
-				padding: 0 10px 10px 0;
-			}
+			@include breakpoint(mobile-only) {
+		        iframe {
+		        	display: none !important;
+		        }
+		    }
 
 		}
 
 		.about-right {
 			padding-left: 3rem;
+
+			img.org {
+				padding: 0 10px 10px 0;
+			}
 
 		    @include breakpoint(mobile-only) {
 		        padding-left: 0;

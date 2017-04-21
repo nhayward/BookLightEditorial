@@ -4,6 +4,8 @@ title: Carly
 
 ![Carly Hayward](Book_Light_Editorial_Carly_Hayward.jpg){.profile}
 
+<a class="twitter-timeline" data-height="400" data-link-color="#487A94" href="https://twitter.com/FromCarly">Tweets by FromCarly</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 #### Carly Bornstein-Hayward
 
