@@ -1,5 +1,8 @@
 ---
 title: Contact
+metadata:
+    description: Contact Book Light Editorial to learn more about rates, editing services, and schedule
+    keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, contact
 heading: 'Ready to begin?'
 form:
     name: 'Contact Form'

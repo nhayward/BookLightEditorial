@@ -1,5 +1,8 @@
 ---
 title: Testimonials
+metadata:
+    description: Book Light Editorial's author testimonials for their editing services
+    keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, testimonials
 onpage_menu: false
 body_classes: "modular fullwidth"
 
