@@ -1,5 +1,7 @@
 ---
 title: 'Alanna, Lorcan and the Wolf - On Sale Now!'
+metadata:
+    keywords: 'author, on-sale, publishing, middle grade, fiction, books, adventure books'
 date: '02-02-2017 00:00'
 taxonomy:
     category:
