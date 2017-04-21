@@ -827,8 +827,8 @@ body#top header#header {
         width: 325px; } }
 body#top #header_image {
   height: 225px;
-  background-repeat: no-repeat;
-  background-attachment: fixed; }
+  background-size: cover;
+  background-repeat: no-repeat; }
 body#top section#body {
   background-color: #fbfbfb;
   color: #404040;
