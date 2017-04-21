@@ -1,6 +1,6 @@
 ---
 title: Contact
-heading: 'Do you have any questions?'
+heading: 'Ready to begin?'
 form:
     name: 'Contact Form'
     fields:
@@ -26,13 +26,13 @@ form:
             placeholder: 'Choose the service you''re looking for'
             type: select
             options:
-                developmental: Developmental Editing
-                assessment: Manuscript Assessment
-                partial: Partial Developmental Edit Package
-                coaching: Writing Coach
-                second: Second-Read Review
-                copy: Manuscript Copyedit
-                unsure: Not sure yet...
+                developmental: 'Developmental Editing'
+                assessment: 'Manuscript Assessment'
+                partial: 'Partial Developmental Edit Package'
+                coaching: 'Writing Coach'
+                second: 'Second-Read Review'
+                copy: 'Manuscript Copyedit'
+                unsure: 'Not sure yet...'
             validate:
                 required: true
         -
@@ -71,7 +71,7 @@ form:
             display: thankyou
 ---
 
-Please send us a message and we will get back to you within 1-2 business days!
+If you are ready to begin or if you have questions for us, please send us a message and we will get back to you within 1-2 business days!
 
 If you are looking for an estimate, include an approximate word count, type of story/genre, and what services you have your eye on. The more information you give us, the better!
 
