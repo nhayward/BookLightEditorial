@@ -827,7 +827,6 @@ body#top header#header {
         width: 325px; } }
 body#top #header_image {
   height: 225px;
-  background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed; }
 body#top section#body {
@@ -842,7 +841,7 @@ body#top section#body {
   body#top section#body .drop-cap:first-letter {
     color: #E1C29A;
     float: left;
-    font-family: Georgia;
+    font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 75px;
     line-height: 60px;
     padding-top: 4px;
@@ -851,7 +850,8 @@ body#top section#body {
   body#top section#body #quick_contact_form + .modular-row.form {
     display: none; }
   body#top section#body .modular-row.callout {
-    background-color: inherit; }
+    background-color: inherit;
+    padding: 1rem; }
   body#top section#body .about-left img.profile {
     width: 352px; }
   body#top section#body .about-left img.org {
