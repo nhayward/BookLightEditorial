@@ -2,8 +2,10 @@
 {% set new_base_url = blog.url == '/' ? '' : blog.url %}
 
 <div class="sidebar-content">
-	<h4>The Editor's Folio</h4>
-	<p>Thoughts on publishing, writing, editing, and all things books from the editors at Book Light Editorial.</p>
+	<div class="notices gold">
+		<h4>The Editor's Folio</h4>
+		<p>Thoughts on publishing, writing, editing, and all things books from the editors at Book Light Editorial.</p>
+	</div>
 </div>
 
 {% include 'partials/socialbuttons.html.twig' with {'url' : page.url} %}
