@@ -788,6 +788,7 @@ body#top .button {
   border-radius: 5px;
   border: 1px solid #487A94;
   padding: 10px 20px;
+  background-color: #fbfbfb;
   color: #487A94;
   font-weight: bold;
   transition: .25s all; }
