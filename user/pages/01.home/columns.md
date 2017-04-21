@@ -16,7 +16,14 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 
 ##### Are you ready to dive into the wonderful world of editing?
 
-[![Editing Services](Book_Light_Editorial_services.png)](http://www.carlybornstein.com/ble/services) [![The Team](book_light_editorial_team.png)](http://www.carlybornstein.com/ble/about)
+<div style="display: table; margin: auto;">
+	<a href="http://www.carlybornstein.com/ble/services">
+		<img style="padding-right: 20px;" src="Book_Light_Editorial_services.png" alt="Editing Services" />
+	</a>
+	<a href="http://www.carlybornstein.com/ble/about">
+		<img src="book_light_editorial_team.png" alt="The Team" />
+	</a>
+</div>
 
 ###### Sidebar
 
