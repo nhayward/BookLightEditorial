@@ -3,6 +3,9 @@ title: Resources
 metadata:
     description: Resources for authors attempting to self-publish or query an agent
     keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, resources, query, literary agent
+sitemap:
+    changefreq: monthly
+    priority: 0.5
 ---
 
 ## Writing Resources and Tips{.center}

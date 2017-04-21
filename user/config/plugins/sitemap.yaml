@@ -1,0 +1,6 @@
+enabled: true
+route: '/sitemap'
+changefreq: monthly
+priority: !!float 0.5
+ignores:
+  - .*thankyou

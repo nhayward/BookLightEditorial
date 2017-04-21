@@ -3,6 +3,9 @@ title: Home
 metadata:
     description: Book Light Editorial offers freelance developmental and copy editing services for indie authors and publishing authors
     keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript
+sitemap:
+    changefreq: monthly
+    priority: 1.0
 header_image: book_light_editorial_bookedges_banner.png
 ---
 
