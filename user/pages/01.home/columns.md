@@ -1,11 +1,11 @@
 ---
 title: Home
 metadata:
-    description: Book Light Editorial offers freelance developmental and copy editing services for indie authors and publishing authors
-    keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript
+    description: 'Book Light Editorial offers freelance developmental and copy editing services for indie authors and publishing authors'
+    keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript'
 sitemap:
     changefreq: monthly
-    priority: 1.0
+    priority: !!float 1
 header_image: book_light_editorial_bookedges_banner.png
 ---
 
@@ -23,10 +23,10 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 ##### Are you ready to dive into the wonderful world of editing?
 
 <div style="display: table; margin: auto;">
-	<a href="http://www.carlybornstein.com/ble/services">
+	<a href="/services">
 		<img style="padding-right: 20px;" src="Book_Light_Editorial_services.png" alt="Editing Services" />
 	</a>
-	<a href="http://www.carlybornstein.com/ble/about">
+	<a href="/team">
 		<img src="book_light_editorial_team.png" alt="The Team" />
 	</a>
 </div>
