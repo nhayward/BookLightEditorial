@@ -904,7 +904,7 @@ body#top section#body {
   body#top section#body .notices.copper {
     border-left: 10px solid #E1C29A;
     background-color: white;
-    background-image: url("/user/themes/illuminate/images/book_light_editorial_coffeestain.png");
+    background-image: url("../images/book_light_editorial_coffeestain.png");
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: right 10px top 10px;
