@@ -830,7 +830,7 @@ body#top header#header {
     body#top header#header #logo {
       padding: 22px 5px; }
       body#top header#header #logo img {
-        width: 268px; } }
+        width: 268px !important; } }
 body#top #header_image {
   height: 225px;
   background-size: cover;
