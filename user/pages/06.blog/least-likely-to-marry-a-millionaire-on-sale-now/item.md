@@ -21,7 +21,7 @@ It’s a sexy contemporary romance that takes has a strong, power-driven heroine
 
 In this sexy and intriguing romance, the reader gets engrossed in high school football, an old couple trying to make it work, and a surprise baby!
 
-![](LeastLikelytoMarry_CB_Editing.jpg)
+![](Book_Light_Editorial_LeastLikelytoMarry.jpg?cropResize=300,300){.float-left}
 
 ##### From the Back Cover:
 

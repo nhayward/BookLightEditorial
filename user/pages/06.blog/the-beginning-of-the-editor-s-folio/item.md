@@ -22,7 +22,7 @@ Stories have always been an important part of human history, but every storytell
 
 Growing up I had a lot of medical problems and disabilities that limited the adventures I could go on. Even just playing Power Rangers in the backyard was difficult. My greatest escape from the real world was the book world. I found, very quickly, that all the adventures I could imagine were within the pages of books, and I rapidly began to devour novel after novel.
 
-![](Carly_CBEditing_stylized.jpg?cropResize=250,250?classes=float-left)
+![](Carly_CBEditing_stylized.jpg?cropResize=250,250){.float-left}
 
 Now, years later, nothing has changed; I still cannot get enough of stories. But now I love to help develop those stories. Every writer has an ideal vision in their head; portraying it on paper can be difficult. All I want is to fall in love with a story and help the writer polish it into a gem, a book that a reader “falls into.”
 

@@ -21,7 +21,7 @@ It’s a sexy fantasy full of strong women (and demons), anti-heroes (er…demon
 
 It is the second book in the wonderful Demon Door series where humans and demons vie for the upper hand and betrayal lurks around every corner.
 
-![](HeronPrince_cover_cb_editing.jpg)
+![](Book_Light_Editorial_HeronPrince_cover.jpg){.float-left}
 
 ##### From the Back Cover:
 

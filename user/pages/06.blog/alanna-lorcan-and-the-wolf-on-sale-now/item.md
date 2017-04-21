@@ -21,7 +21,7 @@ It’s a adventurous middle grade fantasy novel full of heartwarming friends and
 
 ===
 
-![](CB_Editing_AlannahLorcanWolf.jpg?cropResize=450,450)
+![](Book_Light_Editorial_AlannahLorcanWolf.jpg?cropResize=450,450){.float-left}
 
 ##### From the Back Cover:
 

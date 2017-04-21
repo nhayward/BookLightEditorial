@@ -23,7 +23,7 @@ It is the start of a great new series from an author that knows fantasy well.
 
 ===
 
-![](CB_Editing_pure.jpg)
+![](Book_Light_Editorial_pure.jpg?cropResize=300,300){.float-left}
 
 ##### From the Back Cover:
 

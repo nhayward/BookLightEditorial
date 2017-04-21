@@ -24,7 +24,7 @@ Revise & Resub is an editor-run pitch contest focusing on helping authors get th
 
 Writers will submit their query and first 5 (double-spaced) pages to three editors (and one alternate) of their choice, who will then pick one (or if we're really masochistic, two!) winners. After that, the editors and their chosen authors will get to work on their manuscripts in a month-long editing session. And finally, we will repost the polished submissions for the Showcase.
 
-![](RevPit_hashtag_logo.png?cropResize=200,200)
+![](RevPit_hashtag_logo.png?cropResize=200,200){.float-left}
 
 ##### Schedule for #RevPit 2017:
 

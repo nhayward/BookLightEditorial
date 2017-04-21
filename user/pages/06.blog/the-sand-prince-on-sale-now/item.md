@@ -21,7 +21,7 @@ It’s a sexy fantasy full of strong women (and demons), anti heroes (er...demon
 
 It is the start of a fabulous new series where humans and demons vie for the upper hand and betrayal lurks around every corner.
 
-![](SandPrince_cover_cb_editing.jpg)
+![](Book_Light_Editorial_Sand_Prince.jpg){.float-left}
 
 ##### From the Back Cover:
 

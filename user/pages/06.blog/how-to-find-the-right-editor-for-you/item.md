@@ -20,7 +20,7 @@ The first step is knowing what you want. Are you looking for big picture ideas o
 
 Next, think about your budget. Editors aren't cheap, they are definitely an investment! But, as I have said before, editing is necessary for every single book (no exceptions!). If you are on a tight budget, some editors offer cheaper options such as manuscript assessments or less in-depth editing.
 
-![](CB_Editing_manuscript.jpg?cropResize=500,500)
+![](Book_Light_Editorial_manuscript.jpg?cropResize=500,500){.float-left}
 
 ##### Now, on to how to pick the perfect editor for you! Let’s start with the obvious:
 

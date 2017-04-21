@@ -20,6 +20,8 @@ Pitch to Publication is an event going on this summer where authors get help fro
 
 Here is my EXTREMELY simplified break-down of the event (for a full break-down and list of editors check out: [Pitch to Publication](http://sfountain.com/notes/pitch-publication-entry?target=_blank)):
 
+![](Book_Light_Editorial_Three_Graces.jpg?cropResize=300,300){.float-left}
+
 **First step: **Find five freelance editors that you like. Then, send in your query letter to Samantha Fountain listing your five editors. Hopefully, one of them will be interested in your manuscript and will be paired with you! If you connect with an editor, move on to step two!
 
 **Second step:** The freelance editors help the author polish their manuscript. They work with the author to make the story better so it will be picked up by an agent.
@@ -29,8 +31,6 @@ Here is my EXTREMELY simplified break-down of the event (for a full break-down a
 **Fourth step:** If an agent picks your manuscript, they will then help you get it into a traditional publishing house.
 
 As I said, I have joined the event Pitch to Publication as a freelance editor. So send in your queries; I’d love to see them!
-
-![](CB_Editing_Three_Graces.jpg?cropResize=300,300)
 
 I am looking for a fun and engaging story. Either an adventure or a love story will make me happy. I will be tweeting out my manuscript wish list all week at [@fromcarly](https://twitter.com/FromCarly?target=_blank) with #mswl and #pitchtopublication attached. But in the meantime, here are some of my wants (you do not have to fit all of them, in fact, I hope you don’t!):
 

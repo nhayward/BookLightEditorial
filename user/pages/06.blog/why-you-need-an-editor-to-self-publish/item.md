@@ -17,7 +17,7 @@ _You are self-publishing, so why do you need an editor? You know your book bette
 
 But that is not true at all! An editor can see things you can’t. An editor wants to help you make your book into what you envision. The type of editor to help you do that is a developmental editor (Yes, I know, there are so many different types of editors!).
 
-![](CB_Editing_manuscript.jpg?cropResize=350,350)
+![](Book_Light_Editorial_manuscript.jpg?cropResize=350,350){.float-left}
 
 When you have finished your manuscript, when you believe you have written all you can write, that is when you seek out a good developmental editor. When you go the traditional publishing route your main editor is essentially a developmental editor. They are the editor that gets to know your book as if they had written it.
 

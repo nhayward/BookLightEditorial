@@ -19,7 +19,7 @@ It's that time of year where everyone in the book publishing industry gets toget
 
 If you are an author and have thought about getting out there, networking, meeting others, then you should definitely consider coming to BEA. It is a great resource for anyone interested in learning about the book industry and all the complexities therein. You can learn about genre definitions, pitching, readership trends, and much more. 
 
-![](BEA-Logo_CBEditing.png)
+![](BEA-Logo_CBEditing.png){.float-left}
 
 There are signings, events, and panels. If you want to stop by and say hi, I'll be at the EFA Booth and I'll be speaking at a panel Thursday morning. If you are an author that wants to learn about editing, my panel (called: [The Editorial Process: What Do Editors Do?](http://www.bookexpoamerica.com/en/Sessions/26952/The-Editorial-Process-What-Do-Editors-Do?target=_blank)) would be perfect for you. Here is a description from the BEA site:
 

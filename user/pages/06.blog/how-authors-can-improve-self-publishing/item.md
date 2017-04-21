@@ -28,7 +28,7 @@ Next, they need to get the book copyedited. Typos are obnoxious. Most readers no
 
 Then, correctly format your book so that it is easy to navigate as an e-book.
 
-![](CB_Editing_cafe_writing.jpg?cropResize=400,400)
+![](Book_Light_Editorial_cafe_writing.jpg?cropResize=400,400){.float-left}
 
 Also, hire a good cover designer! People say don’t judge a book by its cover, but who among us doesn’t do that! A cover tells you what type of book it is and it indicates the caliber of the writing. Let’s be honest, a crappy cover makes you assume the writing is crappy. Check out this post for more details on cover design: [Simple Tips for Hiring a Book Cover Designer](http://positivewriter.com/very-simple-tips-for-hiring-a-book-cover-designer-that-will-save-you-money/?target=_blank) 
 

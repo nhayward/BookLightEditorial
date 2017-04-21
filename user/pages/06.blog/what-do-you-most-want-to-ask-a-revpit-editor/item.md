@@ -20,7 +20,7 @@ By now you may have heard me talk about a fabulous new contest, Revise & Resub. 
 
 ===
 
-![](RevPit_hashtag_logo_small.png)
+![](RevPit_hashtag_logo_small.png){.float-left}
 
 For a full rundown of the contest check out my [previous blog post](/blog/first-revise-and-resub-contest) or check out the official contest [website](http://reviseresub.com/?target=_blank).
 

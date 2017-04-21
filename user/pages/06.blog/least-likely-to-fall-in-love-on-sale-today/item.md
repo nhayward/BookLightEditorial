@@ -21,7 +21,7 @@ It’s a sexy contemporary romance that takes a closer look at bullying and the 
 
 In this sexy and intriguing romance, we all get to fix our insecurities from high school and fully realize what fabulous adults we actually are.
 
-![](LeastlikelytoFallinLove_cover.jpg)
+![](LeastlikelytoFallinLove_cover.jpg?cropResize=250,250){.float-left}
 
 **From the Back Cover:**
 
