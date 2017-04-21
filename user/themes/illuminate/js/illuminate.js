@@ -9,6 +9,7 @@ $(document).ready(function() {
 		var url = "https://script.google.com/macros/s/AKfycbz5QG_vIto9CssV9hKWBazzSYEKvtoXVZs0lo3tf37Githsy0RZ/exec";
 		var formData = $(this).serializeArray();
 		var data = {
+			"Date": new Date(),
 			"Name": formData[0].value,
 			"Email": formData[1].value,
 			"Service": formData[2].value,
