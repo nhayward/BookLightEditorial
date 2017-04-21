@@ -891,6 +891,10 @@ body#top section#body {
       color: #555; }
   body#top section#body .box-row .box {
     background-color: #f7f7f7;
+    background-image: url("../images/accents/Book_Light_Editorial_Spines_gold.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: right 10px bottom 10px;
     color: black;
     margin-bottom: 2rem;
     padding: 0 20px;
