@@ -8,7 +8,7 @@ D**evelopmental Edit:** When you have taken your piece as far as you can on your
 
 **Cost:** $0.02-$0.03 a word. Prices vary based on the length and complexity of the work.
 
-<a class="button" href="#" data-featherlight=".modular-row.form" data-select="developmental">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="developmental">This is what I want!</a>
 
 ---
 
@@ -16,7 +16,7 @@ M**anuscript Assessment:** If you are on a tight budget or are looking for a dev
 
 **Cost:** $0.005 a word, $350 minimum.
 
-<a class="button" href="#" data-featherlight=".modular-row.form" data-select="assessment">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="assessment">This is what I want!</a>
 
 ---
 
@@ -24,7 +24,7 @@ P**artial Developmental Edit Package:** Can’t decide between a full developmen
 
 **Cost:** $0.005 a word for the full manuscript plus $0.015 a word for the in-line edits (calculated based on the number of words receiving in-line edits). This complicated math results in a flat rate.
 
-<a class="button" href="#" data-featherlight=".modular-row.form" data-select="coaching">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="partial">This is what I want!</a>
 
 ---
 
@@ -32,7 +32,7 @@ W**riting Coach:** Are you having trouble finishing your manuscript? Do you keep
 
 **Cost:** $200-$500 a month depending upon proliferation of work. As this is a very personal service, projects need to be analyzed before accepted.
 
-<a class="button" href="#" data-featherlight=".modular-row.form" data-select="coaching">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="coaching">This is what I want!</a>
 
 ---
 
@@ -40,12 +40,12 @@ S**econd-Read Review:** After you have already had a developmental edit, an asse
 
 Cost: $0.003 a word, $175 minimum.
 
-<a class="button" href="#" data-featherlight=".modular-row.form" data-select="ebook">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="second">This is what I want!</a>
 
 ---
 
-**Manuscript Copyedit:** After a developmental edit or revisions, when you feel confident that your book is as polished as you can make it, it’s time for a copyedit. Your manuscript will be carefully read through to identify and solve any issues in spelling, grammar, punctuation, formatting, and style. Minor changes in wording may also be made for clarity. 
+M**anuscript Copyedit:** After a developmental edit or revisions, when you feel confident that your book is as polished as you can make it, it’s time for a copyedit. Your manuscript will be carefully read through to identify and solve any issues in spelling, grammar, punctuation, formatting, and style. Minor changes in wording may also be made for clarity. 
 
 Cost: $0.01 per word standard; $0.02 per word for complex manuscripts.
 
-<a class="button" href="#" data-featherlight=".modular-row.form" data-select="ebook">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="copy">This is what I want!</a>

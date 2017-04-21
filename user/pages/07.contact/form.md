@@ -26,11 +26,13 @@ form:
             placeholder: 'Choose the service you''re looking for'
             type: select
             options:
-                developmental: 'Developmental Editing'
-                coaching: 'Writing Coaching'
-                assessment: 'Manuscript Assessment'
-                ebook: 'E-book Quality Assurance'
-                unsure: 'Not sure yet...'
+                developmental: Developmental Editing
+                assessment: Manuscript Assessment
+                partial: Partial Developmental Edit Package
+                coaching: Writing Coach
+                second: Second-Read Review
+                copy: Manuscript Copyedit
+                unsure: Not sure yet...
             validate:
                 required: true
         -

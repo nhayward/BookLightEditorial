@@ -26,9 +26,11 @@ form:
           type: select
           options:
             developmental: Developmental Editing
-            coaching: Writing Coaching
             assessment: Manuscript Assessment
-            ebook: E-book Quality Assurance
+            partial: Partial Developmental Edit Package
+            coaching: Writing Coach
+            second: Second-Read Review
+            copy: Manuscript Copyedit
             unsure: Not sure yet...
           validate:
             required: true
