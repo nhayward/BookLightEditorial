@@ -9,7 +9,7 @@ title: Carly
 ---
 #### Carly Bornstein-Hayward
 
-_**Senior Developmental Editor & Founder**_
+_**Chief Developmental Editor & Founder**_
 
 Carly is a developmental editor and writing coach who will help you find your voice and bring your vision to the reader. Editing combines her creativity and her love of reading, giving advice, and logic puzzles. Carly will be your book’s best friend.
 
