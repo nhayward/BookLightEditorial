@@ -20,7 +20,7 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 
 ###### Sidebar
 
-!!!!! Curious to learn more? Check out these editor tips on our blog:  
+!!!!! Curious to learn more? See what the editors have to say on our blog:  
 !!!!! * [How to Find the Right Editor for You](/blog/how-to-find-the-right-editor-for-you)  
 !!!!! * [Why You Need an Editor to Self-Publish](/blog/why-you-need-an-editor-to-self-publish)  
 !!!!! * [Developmental Editing - Your Book's Best Friend](/blog/developmental-editing-your-books-best-friend)

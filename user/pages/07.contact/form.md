@@ -1,5 +1,6 @@
 ---
 title: Contact
+heading: 'Do you have any questions?'
 form:
     name: 'Contact Form'
     fields:
@@ -67,8 +68,6 @@ form:
         -
             display: thankyou
 ---
-
-**Do you have any questions?**
 
 Please send us a message and we will get back to you within 1-2 business days!
 
