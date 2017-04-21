@@ -5,3 +5,6 @@ author:
 metadata:
   description: 'Book Light Editorial offers freelance developmental and copy editing services and writing tips for indie authors and publishing authors'
   author: 'Carly Bornstein-Hayward'
+redirects:
+  /about: '/team'
+  /recommendations: '/testimonials'
