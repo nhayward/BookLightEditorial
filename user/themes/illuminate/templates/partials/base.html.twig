@@ -63,6 +63,11 @@
 
         {% block showcase %}
             {% if page.header.header_image %}
+                <style type="text/css">
+                    #body {
+                        padding-top: 3rem;
+                    }
+                </style>
                 <div id="header_image" style="background-image: url({{ url('theme://images/banners/' ~ page.header.header_image) }})"></div>
             {% endif %}
         {% endblock %}
