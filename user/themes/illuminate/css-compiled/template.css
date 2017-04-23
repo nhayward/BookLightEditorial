@@ -844,7 +844,7 @@ body#top section#body {
   @media only all and (max-width: 47.938em) {
     body#top section#body .pure-g .right-column {
       padding-left: 0; } }
-  body#top section#body .drop-cap:first-letter {
+  body#top section#body .first-character {
     color: #E1C29A;
     float: left;
     font-family: Georgia, Times, "Times New Roman", serif;

@@ -11,9 +11,8 @@ header_image: book_light_editorial_bookedges_banner.png
 
 <h3 class="center">We'll help you bring your book to light</h3>
 
-<div class="drop-cap" markdown="1">
-Book Light Editorial exists to help refine your vision and make your book the best possible version of itself. We can take your manuscript and develop it until it is the book you envisioned.
-</div>
+<span class="first-character">B</span>ook Light Editorial exists to help refine your vision and make your book the best possible version of itself. We can take your manuscript and develop it until it is the book you envisioned.
+
 ##### What does that mean?
 
 Well, we suggest starting with a developmental edit. This type of edit looks at the big-picture aspects of your manuscript, such as plot, character development, story arc, and pacing. It helps make sure you are accurately conveying your vision to readers and that your story is something that will hook readers in and maintain their interest.
