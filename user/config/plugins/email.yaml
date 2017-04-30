@@ -1,13 +1,14 @@
 enabled: true
 from: carly@booklighteditorial.com
-from_name: Book Light Editorial
+from_name: 'Book Light Editorial'
 to: carly@booklighteditorial.com
 mailer:
-  engine: mail
+  engine: smtp
   smtp:
-    server: localhost
-    port: 25
+    server: mail.booklighteditorial.com
     encryption: none
+    user: carlytb8
+    password: Beart123
   sendmail:
     bin: /usr/sbin/sendmail
 content_type: text/html
