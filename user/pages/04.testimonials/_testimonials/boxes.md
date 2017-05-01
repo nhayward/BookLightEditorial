@@ -18,7 +18,7 @@ visible: false
 
 ><span class="first-character">C</span>arly has given me outstanding feedback on my manuscript and I am extremely happy I found her. What I have loved about her critique is that she provides very concrete and easy to understand advice. She identified specific issues with my manuscript and then gave me ideas about how to fix them. Another thing I appreciate is that she gave me rationale for why certain things weren't working. Once I heard that the intro to my Romance was reading like a YA, I was all in.
 
-><span class="first-character">I</span>n addition to the full manuscript, Carly has helped with my novel synopsis and she has reread revised sections of the manuscript. Each time, she has given me greater insight into what I've put on the page, and she has helped me understand how readers, agents and publishers will see it. All the while, she has been very encouraging and excited about my work. I couldn't hope for a better editor.
+>In addition to the full manuscript, Carly has helped with my novel synopsis and she has reread revised sections of the manuscript. Each time, she has given me greater insight into what I've put on the page, and she has helped me understand how readers, agents and publishers will see it. All the while, she has been very encouraging and excited about my work. I couldn't hope for a better editor.
 
 -Bliss Esposito
 
