@@ -1,10 +1,21 @@
-title: Book Light Editorial
+title: 'Book Light Editorial'
+default_lang: en
 author:
-  name: Nick Hayward
-  email: 'nhayward2011@gmail.com'
+  name: 'Carly Hayward'
+  email: carly@booklighteditorial.com
+taxonomies:
+  - category
+  - tag
 metadata:
   description: 'Book Light Editorial offers freelance developmental and copy editing services and writing tips for indie authors and publishing authors'
   author: 'Carly Bornstein-Hayward'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
 redirects:
-  /about: '/team'
-  /recommendations: '/testimonials'
+  /about: /team
+  /recommendations: /testimonials
+blog:
+  route: /blog
