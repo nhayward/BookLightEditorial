@@ -4,4 +4,4 @@ metadata:
     robots: 'noindex'
 ---
 
-Woo!
+Thank you for your interest!
