@@ -30,6 +30,12 @@ visible: false
 
 ---
 
+><span class="first-character">C</span>arly has completed two developmental edits for me within the past two years on two separate manuscripts. Both times I was impressed with not only the turn-around time, but how thorough her feedback was. She helped me see my projects from a reader's perspective but also offered advice on the marketability of it. Her enthusiasm for my work was met with a perfect balance of constructive criticism. While I had no doubt she's in my corner, she also wasn't afraid to challenge. Because of this, I'm able to put out the best work possible. Always a professional, she's also someone I can't wait to share a cuppa with someday.
+
+-Elizabeth Carlino
+
+---
+
 ><span class="first-character">W</span>hen I hired Carly to provide a developmental edit for my story, I had a gut instinct that she would be the right person for the job. I'm oozing with excitement over the changes in my book. I loved my story before but now I'm in love with it. Carly's feedback is worth every penny. She thoughtfully committed to my characters and their struggles, highlighting the key issues that were keeping my writing from reaching its full potential. She challenged me to take on some dramatic changes and I can't thank her enough for the outcome. If you want to take your book to the next level, Carly is the editor for you. It also helps that she's a joy to work with.
 
 -Lindsay Burroughs
@@ -75,6 +81,12 @@ visible: false
 ><span class="first-character">A</span>s far as Carly goes, she offers the complete experience. Her process for developmental editing leaves no stone unturned and assures that every facet, both in the perspective of grammar and storytelling are covered and revised for a more fulfilling literary experience. I was completely satisfied with working with Carly.
 
 -Theo Taylor, Sci-fi and Fantasy author
+
+---
+
+><span class="first-character">I</span>n Carly’s developmental editing of my novel, she dealt with issues, both large and small. Chronology, plot consistency, character motivation, authentic dialogue, point of view, word choices, etc. I appreciated the exhaustive detail and acuteness of her perceptions, but even more than that, I especially valued her understanding of my intent and my overall vision. She kept true to my vision for the novel and helped greatly in turning that vision into a reality.
+
+-Danny Davis, Historical YA author
 
 ---
 

@@ -30,6 +30,8 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 	</a>
 </div>
 
+**_Formerly known as CB Editing_**
+
 ###### Sidebar
 
 !!!!! Curious to learn more? See what the editors have to say on our blog:  

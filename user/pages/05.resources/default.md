@@ -1,8 +1,8 @@
 ---
 title: Resources
 metadata:
-    description: Resources for authors attempting to self-publish or query an agent
-    keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, resources, query, literary agent
+    description: 'Resources for authors attempting to self-publish or query an agent'
+    keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, resources, query, literary agent'
 sitemap:
     changefreq: monthly
     priority: 0.5
@@ -49,7 +49,7 @@ sitemap:
 !!!!!    
 !!!!! **WillowRaven Illustration and Design:**   
 !!!!! ![Willow Raven](1619898_orig_4e18%20%281%29.png){.float-left}
-!!!!! If you are indie publishing you need a great book cover. It is the first thing that draws a reader in, and as much as we hate that it is true, people really do [judge a book by it's cover](/judging-covers).   
+!!!!! If you are indie publishing you need a great book cover. It is the first thing that draws a reader in, and as much as we hate that it is true, people really do [judge a book by it's cover](/blog/judging-covers).   
 !!!!!    
 !!!!! Aidana WillowRaven, tradigital artist and mother of three, was trained in Fine Art, Studio Design and Animation at Norfolk State and Old Dominion universities. WillowRaven has worked with several small publishers as well as many, many independent authors. In addition to her freelance business, she is also the Art Director at 4RV Publishing.   
 !!!!! [Check it out here.](http://willowraven.weebly.com/?target=_blank)   

@@ -7,8 +7,8 @@ taxonomy:
     tag:
         - author
         - publishing
-        - 'self publishing'
         - 'indie author'
+        - 'self publishing'
         - 'indie publishing'
 ---
 
@@ -22,7 +22,7 @@ As with everything, there is a good and bad side to self-publishing. The bad sid
 
 Authors need to view self-publishing as a real business (as all the successful self-publishers do!). They need to put time and effort into their books. But this goes beyond the writing, that is only the first step. In my (decidedly biased) opinion, what they really need to do is put money into the books.
 
-First, they need to get the work developmentally edited (here is where my bias comes in!). The reason most traditionally published works are good isn’t just that the publishing houses are picky; it is because they employ editors to make the books better. No author can be critical of their own work. [See my previous post](/blog/do-you-need-an-editor-to-self-publish) about why this is important.
+First, they need to get the work developmentally edited (here is where my bias comes in!). The reason most traditionally published works are good isn’t just that the publishing houses are picky; it is because they employ editors to make the books better. No author can be critical of their own work. [See my previous post](/blog/why-you-need-an-editor-to-self-publish) about why this is important.
 
 Next, they need to get the book copyedited. Typos are obnoxious. Most readers notice them, and it makes them lose faith in the author if they can’t get through a single page without an error.
 
