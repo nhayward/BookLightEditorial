@@ -1,0 +1,84 @@
+---
+title: Contact
+heading: 'Ready to begin?'
+---
+
+If you are ready to begin editing or if you don't know yet and have questions for us, please send us a message and we will get back to you within 1-2 business days!
+
+If you are looking for an estimate, include an approximate word count, type of story/genre, and what services you have your eye on. The more information you give us, the better!
+
+We look forward to hearing from you!
+
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='http://booklighteditorial.com/contact/thankyou';}"></iframe>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSf4cBdr-avobkUsmoZLj_scy_YlL3V6DNnhL3JDPXJNEjLU7A/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+	<div class="form-field">
+		<div class="form-label">
+			<label class="inline">Name <span class="required">*</span></label>
+		</div>
+		<div class="form-data">
+			<div class="form-input-wrapper">
+				<input autocomplete="on" name="entry.1507132880" placeholder="Enter your name" required="required" type="text" value="">
+			</div>
+		</div>
+	</div>
+	<div class="form-field">
+		<div class="form-label">
+			<label class="inline">Email <span class="required">*</span></label>
+		</div>
+		<div class="form-data">
+			<div class="form-input-wrapper">
+				<input autocomplete="on" name="entry.430227335" placeholder="Enter your email address" required="required" type="email" value="">
+			</div>
+		</div>
+	</div>
+	<div class="form-field">
+		<div class="form-label">
+			<label class="inline">Service <span class="required">*</span></label>
+		</div>
+		<div class="form-data">
+			<div class="form-select-wrapper">
+				<select name="entry.1325649395" required="required">
+					<option disabled selected value="">
+						Choose the service you're looking for
+					</option>
+					<option value="developmental">
+						Developmental Editing
+					</option>
+					<option value="assessment">
+						Manuscript Assessment
+					</option>
+					<option value="partial">
+						Partial Developmental Edit Package
+					</option>
+					<option value="coaching">
+						Writing Coach
+					</option>
+					<option value="second">
+						Second-Read Review
+					</option>
+					<option value="copy">
+						Manuscript Copyedit
+					</option>
+					<option value="unsure">
+						Not sure yet...
+					</option>
+				</select>
+			</div>
+		</div>
+	</div>
+	<div class="form-field">
+		<div class="form-label">
+			<label class="inline">Message <span class="required">*</span></label>
+		</div>
+		<div class="form-data">
+			<div class="form-textarea-wrapper">
+				<textarea class="input" name="entry.1663698665" placeholder="Enter your message" required="required"></textarea>
+			</div>
+		</div>
+	</div>
+	<input name="data[honeypot]" style="display:none;" type="text" value=""> <input name="__form-name__" type="hidden" value="Contact Form">
+	<div class="buttons">
+		<button class="button" type="submit">Submit</button> <button class="button" type="reset">Reset</button>
+	</div>
+</form>
