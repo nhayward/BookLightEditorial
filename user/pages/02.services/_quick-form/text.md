@@ -1,16 +1,11 @@
 ---
-title: Contact
-heading: 'Ready to begin?'
+title: 'Quick Contact'
+routable: false
+visible: false
 ---
 
-If you are ready to begin editing or if you don't know yet and have questions for us, please send us a message and we will get back to you within 1-2 business days!
-
-If you are looking for an estimate, include an approximate word count, type of story/genre, and what services you have your eye on. The more information you give us, the better!
-
-We look forward to hearing from you!
-
 <script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/contact/thankyou';}"></iframe>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/services/thankyou';}"></iframe>
 <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSf4cBdr-avobkUsmoZLj_scy_YlL3V6DNnhL3JDPXJNEjLU7A/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 	<div class="form-field">
 		<div class="form-label">
@@ -38,7 +33,7 @@ We look forward to hearing from you!
 		</div>
 		<div class="form-data">
 			<div class="form-select-wrapper">
-				<select name="entry.1325649395" required="required">
+				<select id="service-select" name="entry.1325649395" required="required">
 					<option disabled selected value="">
 						Choose the service you're looking for
 					</option>

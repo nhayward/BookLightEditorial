@@ -8,7 +8,7 @@ visible: false
 
 **Cost:** $0.02-$0.03 a word. Prices vary based on the length and complexity of the work.
 
-<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="developmental">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="developmental">This is what I want!</a>
 
 ---
 
@@ -16,7 +16,7 @@ visible: false
 
 **Cost:** $0.005 a word, $350 minimum.
 
-<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="assessment">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="assessment">This is what I want!</a>
 
 ---
 
@@ -24,7 +24,7 @@ visible: false
 
 **Cost:** $0.005 a word for the full manuscript plus $0.015 a word for the in-line edits (calculated based on the number of words receiving in-line edits).
 
-<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="partial">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="partial">This is what I want!</a>
 
 ---
 
@@ -32,7 +32,7 @@ visible: false
 
 **Cost:** $200-$500 a month depending upon proliferation of work. As this is a very personal service, projects need to be analyzed before accepted.
 
-<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="coaching">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="coaching">This is what I want!</a>
 
 ---
 
@@ -40,7 +40,7 @@ visible: false
 
 Cost: $0.003 a word, $175 minimum.
 
-<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="second">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="second">This is what I want!</a>
 
 ---
 
@@ -48,4 +48,4 @@ Cost: $0.003 a word, $175 minimum.
 
 Cost: $0.01 per word standard; $0.02 per word for complex manuscripts.
 
-<a class="button quick-contact" href="#" data-featherlight=".modular-row.form" data-select="copy">This is what I want!</a>
+<a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="copy">This is what I want!</a>

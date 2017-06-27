@@ -1,3 +1,0 @@
----
-cache_enable: false
----

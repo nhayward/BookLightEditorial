@@ -853,7 +853,7 @@ body#top section#body {
     padding-top: 4px;
     padding-right: 8px;
     padding-left: 3px; }
-  body#top section#body #_quick-form + .modular-row.form {
+  body#top section#body #quick_contact + .modular-row.callout {
     display: none; }
   body#top section#body .modular-row.callout {
     background-color: inherit;

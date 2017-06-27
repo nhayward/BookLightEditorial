@@ -7,7 +7,7 @@ $(document).ready(function() {
 
 	$('#contact-form').submit(function(e) {
 		if ($('#honeypot').val() !== "") {
-			e.preventDefault();			
+			e.preventDefault();
 			location.reload();
 		}
 	});
