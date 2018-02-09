@@ -1,5 +1,7 @@
 ---
 title: 'Writing Coaching – Editing Your Book as You Write'
+metadata:
+    description: 'Writing is a gut-wrenching process. Sometimes it can be helpful to have a coach by your side to hold your hand and help you write the best book you can.'
 date: '18-01-2016 00:00'
 taxonomy:
     category:

@@ -1,5 +1,7 @@
 ---
 title: 'How Authors Can Improve Self-Publishing'
+metadata:
+    description: 'If you are considering self-publishing your book, take a look at this article on how you can make your best possible book. Self-published novels need as much editing as traditionally published ones (which is a few rounds).'
 date: '16-04-2015 00:00'
 taxonomy:
     category:

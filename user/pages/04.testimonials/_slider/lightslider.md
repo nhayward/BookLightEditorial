@@ -1,9 +1,9 @@
 ---
-title: Book Slider
+title: 'Book Slider'
 routable: false
 visible: false
 lightslider:
-	unique_id: book_lightslider
+    unique_id: book_lightslider
     slider_type: image
     centerSlide: 'true'
     autoWidth: 'true'
@@ -20,3 +20,4 @@ lightslider:
     pause: 5000
     speed: 1000
 ---
+

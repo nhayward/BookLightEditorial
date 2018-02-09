@@ -1,5 +1,7 @@
 ---
 title: 'Top 8 Problems That Turn Readers Off'
+metadata:
+    description: 'Writing a book is difficult, making sure it is a book readers will want to pick up, is even harder. Check out this post to learn more about some common problems that make readers put down your book.'
 date: '31-05-2017 00:00'
 taxonomy:
     category:

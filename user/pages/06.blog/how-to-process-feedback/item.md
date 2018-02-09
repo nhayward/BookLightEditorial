@@ -1,5 +1,7 @@
 ---
 title: 'How to Process Feedback'
+metadata:
+    description: 'After you have gone through the notes and edits from either your editor, critique partner, or beta reader, it is time to find a way to incorporate their notes. Processing feedback is emotional and difficult. Take a look at our tips on how to handle it!'
 date: '15-06-2017 00:00'
 taxonomy:
     category:

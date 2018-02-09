@@ -1,8 +1,8 @@
 ---
 title: Contact
 metadata:
-    description: Contact Book Light Editorial to learn more about rates, editing services, and schedule
-    keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, contact
+    description: 'Contact Book Light Editorial to learn more about rates, editing services, and our schedule. We can help you write you best book, all you have to do is send us a message.'
+    keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, contact'
 sitemap:
     changefreq: yearly
     priority: 0.4

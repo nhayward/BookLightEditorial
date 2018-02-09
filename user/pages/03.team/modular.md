@@ -1,16 +1,15 @@
 ---
-title: The Editors
+title: 'The Editors'
 metadata:
-    description: Book Light Editorial is a team of editors with over a decade of combined experience with helping authors publish
-    keywords: editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, team
+    description: 'At Book Light Editorial we are a team of editors with over a decade of combined experience helping authors publish their books. Helping you bring your book to light is our goal.'
+    keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, team'
 sitemap:
     changefreq: monthly
     priority: 0.7
 menu: Team
 onpage_menu: false
-body_classes: "modular"
-heading: The Team
-
+body_classes: modular
+heading: 'The Team'
 content:
     items: '@self.modular'
     order:
@@ -21,3 +20,4 @@ content:
             - _laura
             - _slider
 ---
+

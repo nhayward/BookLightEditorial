@@ -1,13 +1,15 @@
 ---
 title: 'How to Find the Right Editor for You'
+metadata:
+    description: 'Finding the right editor to help you with your manuscript can seem like an impossible task. Not just anyone will do. Take a look at our tips for finding the right person to help you edit your book.'
 date: '21-04-2015 00:00'
 taxonomy:
     category:
         - blog
     tag:
+        - publishing
         - writing
         - editing
-        - publishing
         - 'developmental editing'
         - copyediting
 ---
@@ -20,7 +22,7 @@ The first step is knowing what you want. Are you looking for big picture ideas o
 
 Next, think about your budget. Editors aren't cheap, they are definitely an investment! But, as I have said before, editing is necessary for every single book (no exceptions!). If you are on a tight budget, some editors offer cheaper options such as manuscript assessments or less in-depth editing.
 
-![](Book_Light_Editorial_manuscript.jpg?cropResize=500,500){.float-left}
+![](book_light_editorial_quote_editorheartbreak.jpg?cropResize=400,400){.float-left}
 
 ##### Now, on to how to pick the perfect editor for you! Let’s start with the obvious:
 

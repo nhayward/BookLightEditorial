@@ -1,7 +1,7 @@
 ---
 title: Home
 metadata:
-    description: 'Book Light Editorial offers freelance developmental and copy editing services for indie authors and publishing authors'
+    description: 'Are you preparing to query or self-publish your manuscript? Book Light Editorial offers freelance developmental editing and copyediting services for indie authors and publishing authors. We will help you create the best possible verson of your book.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript'
 sitemap:
     changefreq: monthly
@@ -30,11 +30,11 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 	</a>
 </div>
 
-**_Formerly known as CB Editing_**
 
 ###### Sidebar
 
 !!!!! Curious to learn more? See what the editors have to say on our blog:  
-!!!!! * [How to Find the Right Editor for You](/blog/how-to-find-the-right-editor-for-you)  
+!!!!! * [How to Find the Right Editor for You](/blog/how-to-find-the-right-editor-for-you) 
+!!!!! * [Developmental Edit, Copyedit, or Proofread: Which Level of Editing Is Right for Me?](/blog/developmental-edit-copyedit-or-proofread-which-level-of-editing-is-right-for-me) 
 !!!!! * [Why You Need an Editor to Self-Publish](/blog/why-you-need-an-editor-to-self-publish)  
 !!!!! * [Developmental Editing - Your Book's Best Friend](/blog/developmental-editing-your-books-best-friend)

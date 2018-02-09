@@ -1,5 +1,7 @@
 ---
 title: 'Manuscript Assessments: Editing for Budget Writers'
+metadata:
+    description: 'Every book needs to be developmentally edited, but that can be expensive. Manuscript assessments are a good option for authors on a budget or authors just dipping their toes into editing.'
 date: '17-09-2015 00:00'
 taxonomy:
     category:

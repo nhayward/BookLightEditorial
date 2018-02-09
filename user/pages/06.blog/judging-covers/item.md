@@ -1,5 +1,7 @@
 ---
 title: 'Judging Covers'
+metadata:
+    description: 'As much as we would like it not to be true, covers are important when deciding which book to purchase. Self-published books are no different, so learn more about what readers think here!'
 date: '03-06-2015 00:00'
 taxonomy:
     category:

@@ -1,7 +1,7 @@
 ---
 title: Resources
 metadata:
-    description: 'Resources for authors attempting to self-publish or query an agent'
+    description: 'Are you writing a book or getting ready to publish? We have lots of resources for authors here. You will find something to help you in your writing.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, resources, query, literary agent'
 sitemap:
     changefreq: monthly
@@ -20,7 +20,7 @@ sitemap:
 !!!!! [Check it out here.](http://www.quickanddirtytips.com/grammar-girl?target=_blank)   
 !!!!!    
 !!!!! **The Editorial Freelancers Association:**   
-!!!!! ![Editorial Freelancers Association](EFA_logo_85T.gif){.float-left}
+!!!!! ![Editorial Freelancers Association](EFA_logo_85.png){.float-left}
 !!!!! If we aren't a good fit for you (That could never be so! But actually, it is very possible. We'll just have to learn to deal with the disappointment) or you want to learn more about hiring freelance editors, check this site out. It is chockful of great editors and information on what to expect when you are hiring a freelance editor.   
 !!!!! [Check it out here.](http://www.the-efa.org/?target=_blank)   
 !!!!!    

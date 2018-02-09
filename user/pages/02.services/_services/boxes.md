@@ -38,14 +38,14 @@ visible: false
 
 <span class="first-character">S</span>**econd-Read Review:** After you have already had a developmental edit, an assessment, or you’ve been coached by us, you can have us read the piece again and review your changes. After you have made substantial edits it can be hard to tell if the edits were an improvement, if you need to go even further, or if they didn’t work at all. This results in 1- to 2-page critique of your edited manuscript.
 
-Cost: $0.003 a word, $175 minimum.
+**Cost:** $0.003 a word, $175 minimum.
 
 <a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="second">This is what I want!</a>
 
 ---
 
-<span class="first-character">M</span>**anuscript Copyedit:** After a developmental edit or revisions, when you feel confident that your book is as polished as you can make it, it’s time for a copyedit. Your manuscript will be carefully read through to identify and solve any issues in spelling, grammar, punctuation, formatting, and style. Minor changes in wording may also be made for clarity. 
+<span class="first-character">C</span>**opyedit:** After you’ve polished your book via developmental edits and revision, it’s time for a copyedit. We will comb through your novel and edit for grammar, punctuation, and consistency of style. Minor changes in wording or light rewrites may also be made for clarity.
 
-Cost: $0.01 per word standard; $0.02 per word for complex manuscripts.
+**Cost:** $0.01-$0.02 per word, based on a five-page review. Manuscripts requiring heavier copyedits and rush edits (less than two weeks’ time) will be determined on a case-by-case basis.
 
 <a class="button quick-contact" href="#" data-featherlight="#contact-form" data-select="copy">This is what I want!</a>

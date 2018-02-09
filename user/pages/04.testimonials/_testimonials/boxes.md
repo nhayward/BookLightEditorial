@@ -16,11 +16,23 @@ visible: false
 
 ---
 
+><span class="first-character">I</span> can’t rave about Carly enough! She performed a quick, yet thorough, read-through of my novel and created six _pages_ of talking points. Then we skyped so I fully understood her points and recommendations. Together, we crafted a battle strategy for revisions—it was so efficient that the actual edits only took a week! And looking at the old draft versus the new one… wow. Her edits added a whole new dimension to my story, without sacrificing my original vision for the novel. If you’re hesitating on purchasing her work, don’t! After three _years_ of querying, it took my newly revised manuscript just three months to find a home with a literary agent. That’s all thanks to Carly!
+
+-Becki Fornwalt, Young Adult Author
+
+---
+
 ><span class="first-character">C</span>arly has given me outstanding feedback on my manuscript and I am extremely happy I found her. What I have loved about her critique is that she provides very concrete and easy to understand advice. She identified specific issues with my manuscript and then gave me ideas about how to fix them. Another thing I appreciate is that she gave me rationale for why certain things weren't working. Once I heard that the intro to my Romance was reading like a YA, I was all in.
 
 >In addition to the full manuscript, Carly has helped with my novel synopsis and she has reread revised sections of the manuscript. Each time, she has given me greater insight into what I've put on the page, and she has helped me understand how readers, agents and publishers will see it. All the while, she has been very encouraging and excited about my work. I couldn't hope for a better editor.
 
 -Bliss Esposito
+
+---
+
+><span class="first-character">L</span>aura helped me to fix the key complaint I received from beta readers: too many typos and style inconsistencies. Turns out the bugs were hidden in plain sight — you can never see your own typos! (If there’s a typo in this testimonial, that’s on me.) I have to add that, in addition to the necessary repairs, it was such fun seeing her reactions and encouragement noted throughout the text, sprinkled like Easter eggs. That human touch is important to me, as I’m primarily aiming my book at humans.
+
+-J.D. Robinson, Sci-fi and Young Adult Author
 
 ---
 

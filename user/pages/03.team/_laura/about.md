@@ -11,16 +11,15 @@ title: Laura
 
 _**Senior Copyeditor**_
 
-<span class="first-character">L</span>aura is an editor and fellow writer from New Hampshire. She has been editing professionally for two years and offers services to authors who feel their manuscript could benefit from one final pair of eyes before it is sent out—whether to an agent or for indie publication.
+<span class="first-character">L</span>aura has worked as a professional editor for 3 years. She has experience in both content and copyediting. Her copyediting services offer authors one crucial final set of eyes on their manuscript before being sent out—whether to an agent or for indie publication. Her goal is to help you produce a polished piece that you can be just as sure of as you are proud of.
 
-Laura received her degree in English from the University of New Hampshire with a focus on editing and copyediting through the school’s English Journalism program. In addition, she received her Masters of Fine Arts in Creative Nonfiction from the Mountainview MFA program. She has written a YA memoir and attended many writing residencies.
+She holds an MFA in Nonfiction from the Mountainview low-residency program, where she wrote a coming-of-age memoir under the mentorship of published authors and exstensively studied craft and publishing. She graduated from the University of New Hampshire magna cum laude with a BA in English. There, she focused her studies on print journalism, news editing, and fiction and nonfiction writing.
 
-As both a writer and an editor, Laura is able to accurately edit for clarity and consistency while preserving the nuances of your style and voice. She understands the importance of producing a polished final project that you can be just as sure of as you are proud of.
-
-If she’s not editing or writing, you can probably find her at home, watching documentaries on Netflix or dancing around her bedroom singing along to Sia (probably very loudly and off-key).
+Laura lives in New Hampshire, where she cocoons herself in blankets and edits from her secondhand La-Z-Boy chair. When she’s not editing, you can find her working on her own writing, binge-watching America’s Next Top Model, or trying her hand at indoor rock-climbing.
 
 !!!!! ##### Specialties:   
 !!!!!   
-!!!!! Laura specializes in young adult, new adult, and middle grade age categories. She particularly focuses on nonfiction essay collections, memoir, and coming-of-age novels (especially ones that tackle heavy topics). She does not read horror, but will read any other genres not listed on the basis of quality.
+!!!!! Laura’s specializes in YA and NA novels. She also loves editing coming-of-age stories, memoirs, and nonfiction essay collections. She does not edit horror, as she’s easily spooked, but is open to all other genres and manuscripts that deal with heavier subject matters.
 
+[![Poynter News University](Poynter_NewsUniversity.png){.org}](https://www.newsu.org/?target=_blank)
 [![Shore Indie](shoreindie_logo.png){.org}](https://shoreindie.blogspot.com/?target=_blank)
