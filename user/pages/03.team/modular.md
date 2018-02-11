@@ -18,6 +18,7 @@ content:
         custom:
             - _carly
             - _laura
+            - _grace
             - _slider
 ---
 
