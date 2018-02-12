@@ -21,4 +21,3 @@ content:
             - _grace
             - _slider
 ---
-
