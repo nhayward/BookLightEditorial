@@ -1,8 +1,38 @@
+# v1.14.1
+## 01/11/2018
+
+1. [](#bugfix)
+    * Fix for Gantry5 themes
+
+# v1.14.0
+## 01/08/2018
+
+1. [](#new)
+    * Added Danish translations [#127](https://github.com/getgrav/grav-plugin-simplesearch/pull/127)
+1. [](#improved)
+    * New option to disable built-in JS [#130](https://github.com/getgrav/grav-plugin-simplesearch/pull/130)
+    * Changed elipsis from `...` to `…` [#133](https://github.com/getgrav/grav-plugin-simplesearch/pull/133)
+    * Added missing French translations [#136](https://github.com/getgrav/grav-plugin-simplesearch/pull/136)
+    * Added missing German translations [#128](https://github.com/getgrav/grav-plugin-simplesearch/pull/128)
+1. [](#bugfix)
+    * Escaped `query` in Twig templates for XSS protection
+
+# v1.13.0
+## 07/26/2017
+
+1. [](#improved)
+    * Support for multiple forms and fields in the same page
+1. [](#bugfix)
+    * Fix typo in `SEARCH_FIELD_MINIUMUM_CHARACTERS` translation string
+    * Fixed validation and JS submission
+    * Separated JS from inline to file
+    * Fixed issue with min query length always enforced. It is now possible to have no minimum length by setting to `false` or `0`
+
 # v1.12.0
 ## 05/31/2017
 
 1. [](#new)
-   * Added option to switch between Rendered HTML and Raw Markdown content searching.  Raw Markdown is faster than default.
+   * Added option to switch between Rendered HTML and Raw Markdown content searching. Raw Markdown is faster than default.
 
 # v1.11.0
 ## 05/29/2017
