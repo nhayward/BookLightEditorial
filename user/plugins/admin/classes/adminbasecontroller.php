@@ -6,6 +6,8 @@ use Grav\Common\Filesystem\Folder;
 use Grav\Common\Grav;
 use Grav\Common\Page\Media;
 use Grav\Common\Utils;
+use Grav\Common\Plugin;
+use Grav\Common\Theme;
 use RocketTheme\Toolbox\Event\Event;
 use RocketTheme\Toolbox\File\File;
 
@@ -213,7 +215,7 @@ class AdminBaseController
 
         /** @var Config $config */
         $config   = $this->grav['config'];
-        $data     = $this->view == 'pages' ? $this->admin->page(true) : $this->prepareData([]);
+        $data     = $this->view === 'pages' ? $this->admin->page(true) : $this->prepareData([]);
         $settings = $data->blueprints()->schema()->getProperty($this->post['name']);
         $settings = (object)array_merge([
             'avoid_overwriting' => false,
@@ -225,6 +227,19 @@ class AdminBaseController
 
         $upload = $this->normalizeFiles($_FILES['data'], $settings->name);
 
+        $filename = trim($upload->file->name);
+
+        // Handle bad filenames.
+        if (strtr($filename, "\t\n\r\0\x0b", '_____') !== $filename || rtrim($filename, ". ") !== $filename || preg_match('|\.php|', $filename)) {
+            $this->admin->json_response = [
+                'status'  => 'error',
+                'message' => sprintf($this->admin->translate('PLUGIN_ADMIN.FILEUPLOAD_UNABLE_TO_UPLOAD', null),
+                    $filename, 'Bad filename')
+            ];
+
+            return false;
+        }
+
         if (!isset($settings->destination)) {
             $this->admin->json_response = [
                 'status'  => 'error',
@@ -235,7 +250,7 @@ class AdminBaseController
         }
 
         // Do not use self@ outside of pages
-        if ($this->view != 'pages' && in_array($settings->destination, ['@self', 'self@'])) {
+        if ($this->view !== 'pages' && in_array($settings->destination, ['@self', 'self@'])) {
             $this->admin->json_response = [
                 'status'  => 'error',
                 'message' => sprintf($this->admin->translate('PLUGIN_ADMIN.FILEUPLOAD_PREVENT_SELF', null),
@@ -254,29 +269,6 @@ class AdminBaseController
             ];
 
             return false;
-        } else {
-            // Remove the error object to avoid storing it
-            unset($upload->file->error);
-
-            // we need to move the file at this stage or else
-            // it won't be available upon save later on
-            // since php removes it from the upload location
-            $tmp_dir  = Admin::getTempDir();
-            $tmp_file = $upload->file->tmp_name;
-            $tmp      = $tmp_dir . '/uploaded-files/' . basename($tmp_file);
-
-            Folder::create(dirname($tmp));
-            if (!move_uploaded_file($tmp_file, $tmp)) {
-                $this->admin->json_response = [
-                    'status'  => 'error',
-                    'message' => sprintf($this->admin->translate('PLUGIN_ADMIN.FILEUPLOAD_UNABLE_TO_MOVE', null), '',
-                        $tmp)
-                ];
-
-                return false;
-            }
-
-            $upload->file->tmp_name = $tmp;
         }
 
         // Handle file size limits
@@ -290,14 +282,14 @@ class AdminBaseController
             return false;
         }
 
-
         // Handle Accepted file types
         // Accept can only be mime types (image/png | image/*) or file extensions (.pdf|.jpg)
         $accepted = false;
         $errors   = [];
+
         foreach ((array)$settings->accept as $type) {
             // Force acceptance of any file when star notation
-            if ($type == '*') {
+            if ($type === '*') {
                 $accepted = true;
                 break;
             }
@@ -323,6 +315,29 @@ class AdminBaseController
 
             return false;
         }
+
+        // Remove the error object to avoid storing it
+        unset($upload->file->error);
+
+        // we need to move the file at this stage or else
+        // it won't be available upon save later on
+        // since php removes it from the upload location
+        $tmp_dir  = Admin::getTempDir();
+        $tmp_file = $upload->file->tmp_name;
+        $tmp      = $tmp_dir . '/uploaded-files/' . basename($tmp_file);
+
+        Folder::create(dirname($tmp));
+        if (!move_uploaded_file($tmp_file, $tmp)) {
+            $this->admin->json_response = [
+                'status'  => 'error',
+                'message' => sprintf($this->admin->translate('PLUGIN_ADMIN.FILEUPLOAD_UNABLE_TO_MOVE', null), '',
+                    $tmp)
+            ];
+
+            return false;
+        }
+
+        $upload->file->tmp_name = $tmp;
 
         // Retrieve the current session of the uploaded files for the field
         // and initialize it if it doesn't exist
@@ -394,7 +409,7 @@ class AdminBaseController
      *
      * @return bool True if authorized. False if not.
      */
-    protected function authorizeTask($task = '', $permissions = [])
+    public function authorizeTask($task = '', $permissions = [])
     {
         if (!$this->admin->authorize($permissions)) {
             if ($this->grav['uri']->extension() === 'json') {
@@ -751,9 +766,21 @@ class AdminBaseController
 
         $media           = new Media($folder);
         $available_files = [];
+        $metadata = [];
+        $thumbs = [];
+
 
         foreach ($media->all() as $name => $medium) {
-            $available_files[] = $name;
+
+           $available_files[] = $name;
+
+            if (isset($settings['include_metadata'])) {
+                $img_metadata = $medium->metadata();
+                if ($img_metadata) {
+                    $metadata[$name] = $img_metadata;
+                }
+            }
+
         }
 
         // Peak in the flashObject for optimistic filepicker updates
@@ -785,11 +812,20 @@ class AdminBaseController
             });
         }
 
+        // Generate thumbs if needed
+        if (isset($settings['preview_images']) && $settings['preview_images'] === true) {
+            foreach ($available_files as $filename) {
+                $thumbs[$filename] = $media[$filename]->zoomCrop(100,100)->url();
+            }
+        }
+
         $this->admin->json_response = [
             'status'  => 'success',
             'files'   => array_values($available_files),
             'pending' => array_values($pending_files),
-            'folder'  => $folder
+            'folder'  => $folder,
+            'metadata' => $metadata,
+            'thumbs' => $thumbs
         ];
 
         return true;
@@ -894,22 +930,23 @@ class AdminBaseController
 
         $file                  = File::instance($filename);
         $resultRemoveMedia     = false;
-        $resultRemoveMediaMeta = true;
 
         if ($file->exists()) {
             $resultRemoveMedia = $file->delete();
 
-            $metaFilePath = $filename . '.meta.yaml';
-            $metaFilePath = str_replace('@3x', '', $metaFilePath);
-            $metaFilePath = str_replace('@2x', '', $metaFilePath);
+            $fileParts = pathinfo($filename);
 
-            if (is_file($metaFilePath)) {
-                $metaFile              = File::instance($metaFilePath);
-                $resultRemoveMediaMeta = $metaFile->delete();
+            foreach (scandir($fileParts['dirname']) as $file) {
+                $regex_pattern = "/" . preg_quote($fileParts['filename']) . "@\d+x\." . $fileParts['extension'] . "(?:\.meta\.yaml)?$|" . preg_quote($fileParts['basename']) . "\.meta\.yaml$/";
+                if (preg_match($regex_pattern, $file)) {
+                    $path = $fileParts['dirname'] . '/' . $file;
+                    @unlink($path);
+                }
             }
+
         }
 
-        if ($resultRemoveMedia && $resultRemoveMediaMeta) {
+        if ($resultRemoveMedia) {
             if ($this->grav['uri']->extension() === 'json') {
                 $this->admin->json_response = [
                     'status'  => 'success',
