@@ -1,12 +1,11 @@
 ---
 title: Laura
+profile_image:
+    src: Book_Light_Editorial_Laura_Dennison.jpg
+    alt_text: Laura Dennison
+twitter_handle: LEDennison
 ---
 
-![Laura Dennison](Book_Light_Editorial_Laura_Dennison.jpg){.profile}
-
-<a class="twitter-timeline" data-height="400" data-link-color="#487A94" href="https://twitter.com/LEDennison">Tweets by LEDennison</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 #### Laura Dennison
 
 _**Senior Copyeditor**_

@@ -1,12 +1,11 @@
 ---
 title: Grace
+profile_image:
+    src: Book_Light_Editorial_Grace_Laidlaw.jpg
+    alt_text: Grace Laidlaw
+twitter_handle: GraceCopyedits
 ---
 
-![Grace Laidlaw](Book_Light_Editorial_Grace_Laidlaw.jpg){.profile}
-
-<a class="twitter-timeline" data-height="400" data-link-color="#487A94" href="https://twitter.com/GraceCopyedits">Tweets by GraceCopyedits</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 #### Grace Laidlaw
 
 _**Senior Copyeditor**_
