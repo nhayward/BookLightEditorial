@@ -1,9 +1,9 @@
-{% for box in page.content|split('<hr />') %}
+{% for box in page.header.boxes %}
 	{% if loop.index is odd %}
 		<div class="pure-g modular-row box-row">
 			<div class="block pure-u-1-2">
 				<div class="box">
-					{{ box }}
+					{{ box.content|markdown }}
 				</div>
 			</div>
 		{% if loop.last %}
@@ -13,7 +13,7 @@
 	{% elseif loop.index is even %}
 			<div class="block pure-u-1-2 right-column">
 				<div class="box">
-					{{ box }}
+					{{ box.content|markdown }}
 				</div>
 			</div>
 		</div>

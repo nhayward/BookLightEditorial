@@ -7,6 +7,16 @@ sitemap:
     changefreq: monthly
     priority: !!float 1
 header_image: book_light_editorial_bookedges_banner.png
+sidebar: >
+    !!!!! Curious to learn more? See what the editors have to say on our blog:  
+
+    !!!!! * [How to Find the Right Editor for You](/blog/how-to-find-the-right-editor-for-you) 
+
+    !!!!! * [Developmental Edit, Copyedit, or Proofread: Which Level of Editing Is Right for Me?](/blog/developmental-edit-copyedit-or-proofread-which-level-of-editing-is-right-for-me) 
+
+    !!!!! * [Why You Need an Editor to Self-Publish](/blog/why-you-need-an-editor-to-self-publish)  
+    
+    !!!!! * [Developmental Editing - Your Book's Best Friend](/blog/developmental-editing-your-books-best-friend)
 ---
 
 <h3 class="center">We'll help you bring your book to light</h3>
@@ -29,12 +39,3 @@ After that, it is time for a copyedit. Copyediting works on the spelling, gramma
 		<img src="book_light_editorial_team.png" alt="The Team" />
 	</a>
 </div>
-
-
-###### Sidebar
-
-!!!!! Curious to learn more? See what the editors have to say on our blog:  
-!!!!! * [How to Find the Right Editor for You](/blog/how-to-find-the-right-editor-for-you) 
-!!!!! * [Developmental Edit, Copyedit, or Proofread: Which Level of Editing Is Right for Me?](/blog/developmental-edit-copyedit-or-proofread-which-level-of-editing-is-right-for-me) 
-!!!!! * [Why You Need an Editor to Self-Publish](/blog/why-you-need-an-editor-to-self-publish)  
-!!!!! * [Developmental Editing - Your Book's Best Friend](/blog/developmental-editing-your-books-best-friend)
