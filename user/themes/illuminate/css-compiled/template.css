@@ -827,12 +827,12 @@ body#top header#header {
           width: 325px; } }
   @media only all and (max-width: 986px) {
     body#top header#header #logo {
-      padding: 22px 5px; }
+      padding: 19px 5px; }
       body#top header#header #logo img {
         width: 310px !important; } }
   @media only all and (max-width: 971px) {
     body#top header#header #logo {
-      padding: 22px 5px; }
+      padding: 20px 5px; }
       body#top header#header #logo img {
         width: 295px !important; } }
   @media only all and (max-width: 391px) {
