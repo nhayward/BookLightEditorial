@@ -108,6 +108,19 @@ body#top {
 
 		}
 
+		@media only all and (max-width: 971px) {
+
+			#logo {
+				padding: 22px 5px;
+
+				img {
+					width: 295px !important;
+				}
+
+			}
+
+		}
+
 		@media only all and (max-width: 391px) {
 
 			#logo {
