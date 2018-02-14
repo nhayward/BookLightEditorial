@@ -817,15 +817,19 @@ body#top header#header {
     padding: 5px; }
     body#top header#header.scrolled #logo img {
       width: 297px; }
-  @media only all and (max-width: 1097px) {
+  @media only all and (max-width: 1108px) {
     body#top header#header {
       padding-left: 0;
-      padding-right: 0; } }
-  @media only all and (max-width: 1033px) {
+      padding-right: 0; }
+      body#top header#header #logo {
+        padding: 18px 5px; }
+        body#top header#header #logo img {
+          width: 325px; } }
+  @media only all and (max-width: 969px) {
     body#top header#header #logo {
-      padding: 18px 5px; }
+      padding: 22px 5px; }
       body#top header#header #logo img {
-        width: 325px; } }
+        width: 310px !important; } }
   @media only all and (max-width: 391px) {
     body#top header#header #logo {
       padding: 22px 5px; }
