@@ -11,5 +11,9 @@ $(document).ready(function() {
 			location.reload();
 		}
 	});
+
+	$("a[target='_blank']").each(function() {
+		$(this).attr("rel", "noopener noreferrer");
+	});
 	
 });
