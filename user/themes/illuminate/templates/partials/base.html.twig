@@ -95,7 +95,7 @@
             </div>
             <img id="heart-book" src="{{ url('theme://images/footer/Book_Light_Editorial_TattooImage.png') }}" />
             <p>Created by <a target="_blank" href="https://twitter.com/WebwardCo">Webward Co</a>.</p>
-            <p>Content copyright 2017. Carly T. Hayward. All rights reserved.</p>
+            <p>Content copyright {{ now|date('Y') }}. Carly T. Hayward. All rights reserved.</p>
         </footer>
         {% endblock %}
     </div>
