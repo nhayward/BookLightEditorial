@@ -83,7 +83,7 @@ We look forward to hearing from you!
 			</div>
 		</div>
 	</div>
-	<input id="honeypot" style="display:none;" type="text" value="">
+	<input class="phone" style="display:none;" type="text" value="">
 	<div class="buttons">
 		<button class="button" type="submit">Submit</button> <button class="button" type="reset">Reset</button>
 	</div>

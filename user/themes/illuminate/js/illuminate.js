@@ -6,10 +6,12 @@ $(document).ready(function() {
 	});
 
 	$('#contact-form').submit(function(e) {
-		if ($('#honeypot').val() !== "") {
-			e.preventDefault();
-			location.reload();
-		}
+		$('.phone').each(function() {
+			if ($(this).val() !== "") {
+				e.preventDefault();
+				location.reload();
+			}
+		});
 	});
 
 	$("a[target='_blank']").each(function() {

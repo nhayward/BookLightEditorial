@@ -50,7 +50,7 @@ form:
           type: hidden
           evaluateDefault: grav.uri.path
 
-        - name: honeypot
+        - name: phone
           type: honeypot
 
 #        - name: g-recaptcha-response
