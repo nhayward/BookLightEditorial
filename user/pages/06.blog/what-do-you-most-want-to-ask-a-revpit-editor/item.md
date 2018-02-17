@@ -5,10 +5,10 @@ taxonomy:
     category:
         - blog
     tag:
-        - author
-        - pitch
         - publishing
+        - author
         - 'twitter event'
+        - pitch
         - query
 ---
 
@@ -36,7 +36,7 @@ Join us!: [Victoria Griffin Fiction](https://www.youtube.com/victoriagriffinfict
 
 #### Update:
 
-The live #AskEditor chat went well (when we weren't trying to figure out how to even do it)! You can not view it below:
+The live #AskEditor chat went well (when we weren't trying to figure out how to even do it)! You can now view it below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W8JYrjZyAAs" frameborder="0" allowfullscreen></iframe>
  
