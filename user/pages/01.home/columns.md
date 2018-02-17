@@ -17,6 +17,44 @@ sidebar: >
     !!!!! * [Why You Need an Editor to Self-Publish](/blog/why-you-need-an-editor-to-self-publish)  
     
     !!!!! * [Developmental Editing - Your Book's Best Friend](/blog/developmental-editing-your-books-best-friend)
+
+
+    <!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+        <form action="//booklighteditorial.us15.list-manage.com/subscribe/post?u=41cbd1b3120b5a7852e2b113c&amp;id=2186454ed1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+                <center>
+                    <h4>Newsletter</h4>
+                    <h6>Want to receive writing, editing, and publishing tips (not to mention deals on services)?  <b>Subscribe to our newsletter!</b></h6>
+                </center>
+                <div class="mc-field-group form-field">
+                    <label class="inline" for="mce-EMAIL">Email <span class="required">*</span></label>
+                    <input id="mce-EMAIL" class="email" type="email" placeholder="Enter your email address" name="EMAIL">
+                </div>
+                <div class="mc-field-group form-field">
+                    <label class="inline" for="mce-FNAME">First Name</label>
+                    <input id="mce-FNAME" type="text" placeholder="Enter your first name" name="FNAME">
+                </div>
+                <div class="mc-field-group form-field">
+                    <label class="inline" for="mce-LNAME">Last Name</label>
+                    <input id="mce-LNAME" type="text" placeholder="Enter your last name" name="LNAME">
+                </div>
+                <div id="mce-responses" class="clear">
+                    <div id="mce-error-response" class="response alert notices red" style="display:none"></div>
+                    <div id="mce-success-response" class="response alert notices green" style="display:none"></div>
+                </div>
+                
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_41cbd1b3120b5a7852e2b113c_2186454ed1" tabindex="-1" value="">
+                </div>
+                <div class="clear buttons">
+                    <button id="mc-embedded-subscribe" class="button" type="submit" name="subscribe">Subscribe</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    <!--End mc_embed_signup-->
 ---
 
 <h3 class="center">We'll help you bring your book to light</h3>
