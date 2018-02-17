@@ -25,7 +25,7 @@ sidebar: >
             <div id="mc_embed_signup_scroll">
                 <center>
                     <h4>Newsletter</h4>
-                    <h6>Want to receive writing, editing, and publishing tips (not to mention deals on services)?  <b>Subscribe to our newsletter!</b></h6>
+                    <h6>Want to hear about all things writing, editing, and publishing (not to mention deals on services)?  <b>Subscribe to our newsletter!</b></h6>
                 </center>
                 <div class="mc-field-group form-field">
                     <label class="inline" for="mce-EMAIL">Email <span class="required">*</span></label>
