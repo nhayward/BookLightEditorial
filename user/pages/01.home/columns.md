@@ -6,7 +6,7 @@ metadata:
 sitemap:
     changefreq: monthly
     priority: !!float 1
-header_image: book_light_editorial_bookedges_banner.png
+header_image: book_light_editorial_booklights_banner.png
 sidebar: >
     !!!!! Curious to learn more? See what the editors have to say on our blog:  
 
