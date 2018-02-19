@@ -24,7 +24,7 @@ sidebar: >
         <form action="//booklighteditorial.us15.list-manage.com/subscribe/post?u=41cbd1b3120b5a7852e2b113c&amp;id=2186454ed1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
                 <center>
-                    <h4>Newsletter</h4>
+                    <img src="/user/themes/illuminate/images/book_light_editorial_newsletter.jpg" />
                     <h6>Want to hear about all things writing, editing, and publishing (not to mention deals on services)?<br><b>Subscribe to our newsletter!</b></h6>
                 </center>
                 <div class="mc-field-group form-field">
