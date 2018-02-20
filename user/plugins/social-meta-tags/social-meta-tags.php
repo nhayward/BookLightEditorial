@@ -73,7 +73,7 @@ class SocialMetaTagsPlugin extends Plugin
             if (!isset($meta['twitter:description'])) {
                 $meta['twitter:description']['name']     = 'twitter:description';
                 $meta['twitter:description']['property'] = 'twitter:description';
-                $meta['twitter:description']['content']  = $this->sanitizeMarkdowns(strip_tags($this->grav['page']->summary()));
+                $meta['twitter:description']['content']  = $this->grav['page']->metadata()['description']['content'];
             }
 
             if (!isset($meta['twitter:image'])) {
@@ -129,7 +129,7 @@ class SocialMetaTagsPlugin extends Plugin
 
             $meta['og:description']['name']     = 'og:description';
             $meta['og:description']['property'] = 'og:description';
-            $meta['og:description']['content']  = $this->sanitizeMarkdowns(strip_tags($this->grav['page']->summary()));
+            $meta['og:description']['content']  = $this->grav['page']->metadata()['description']['content'];
 
             $meta['og:type']['name']            = 'og:type';
             $meta['og:type']['property']        = 'og:type';
