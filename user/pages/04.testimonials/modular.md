@@ -1,5 +1,6 @@
 ---
 title: Testimonials
+media_order: Book_Light_Editorial_gold_vector.png
 metadata:
     description: 'Want to know if you can trust us? Check out what our previous clients have said about Book Light Editorial. Our goal is to help you create the best possible book, and as you can see here, we have helped many authors.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, testimonials'

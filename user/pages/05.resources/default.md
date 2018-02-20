@@ -1,5 +1,6 @@
 ---
 title: Resources
+media_order: Book_Light_Editorial_gold_vector.png
 metadata:
     description: 'Are you writing a book or getting ready to publish? We have lots of resources for authors here. You will find something to help you in your writing.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, resources, query, literary agent'
