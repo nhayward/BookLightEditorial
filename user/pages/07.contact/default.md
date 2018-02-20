@@ -1,6 +1,6 @@
 ---
 title: Contact
-media_order: Book_Light_Editorial_gold_vector.png
+media_order: book_light_editorial_socialmetatag.png
 metadata:
     description: 'Contact Book Light Editorial to learn more about rates, editing services, and our schedule. We can help you write you best book, all you have to do is send us a message.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, contact'

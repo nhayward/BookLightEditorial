@@ -1,6 +1,6 @@
 ---
 title: 'The Editors'
-media_order: Book_Light_Editorial_gold_vector.png
+media_order: book_light_editorial_socialmetatag.png
 metadata:
     description: 'At Book Light Editorial we are a team of editors with over a decade of combined experience helping authors publish their books. Helping you bring your book to light is our goal.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, team'
