@@ -3,7 +3,7 @@ social_pages:
   pages:
     twitter:
       enabled: true
-      type: summary
+      type: summary_large_image
       aboutme: false
       username: ''
     facebook:
