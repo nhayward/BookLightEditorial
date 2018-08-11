@@ -1,8 +1,8 @@
 ---
 title: 'Developmental Editing - Your Book''s Best Friend'
+date: '19-04-2017 00:00'
 metadata:
     description: 'When you have created the best manuscript you possibly can, it is time to work with an editor to bring your book to the next level. A developmental editor is your best friend, helping you make content edits that elevate your book.'
-date: '19-04-2017 00:00'
 taxonomy:
     category:
         - blog
@@ -13,7 +13,7 @@ taxonomy:
         - 'developmental editing'
 ---
 
-#### By Carly Hayward
+#### By [Carly Hayward](http://booklighteditorial.com/team#carly)
 
 “Write drunk, editor sober” is a famous quote with dubious origins. While it is difficult to assign credit to the quote, its message is clear. Writing requires the author to get their creative juices flowing, to awaken their muse, no matter how they do it. But editing requires a stricter, soberer eye. An editor can see things you can’t. 
 

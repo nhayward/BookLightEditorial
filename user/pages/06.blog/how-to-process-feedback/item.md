@@ -1,14 +1,14 @@
 ---
 title: 'How to Process Feedback'
+date: '15-06-2017 00:00'
 metadata:
     description: 'After you have gone through the notes and edits from either your editor, critique partner, or beta reader, it is time to find a way to incorporate their notes. Processing feedback is emotional and difficult. Take a look at our tips on how to handle it!'
-date: '15-06-2017 00:00'
 taxonomy:
     category:
         - blog
     tag:
-        - author
         - publishing
+        - author
         - editor
         - 'twitter event'
         - indieauthor
@@ -16,7 +16,7 @@ taxonomy:
         - feedback
 ---
 
-#### by Carly Hayward
+#### by [Carly Hayward](http://booklighteditorial.com/team#carly)
 
 ###### This post was originally written for the [ShoreIndie Blog](https://shoreindie.blogspot.com/2017/06/how-to-process-feedback.html?target=_blank), republished with permission.
 

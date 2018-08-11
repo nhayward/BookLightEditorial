@@ -13,7 +13,7 @@ taxonomy:
         - 'self publishing'
 ---
 
-#### By Carly Bornstein-Hayward
+#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 _You are self-publishing, so why do you need an editor? You know your book better than anyone else right? An editor will just twist it into something different, something wrong, they won’t understand it._
 

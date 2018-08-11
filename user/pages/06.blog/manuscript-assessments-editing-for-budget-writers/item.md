@@ -1,20 +1,20 @@
 ---
 title: 'Manuscript Assessments: Editing for Budget Writers'
+date: '17-09-2015 00:00'
 metadata:
     description: 'Every book needs to be developmentally edited, but that can be expensive. Manuscript assessments are a good option for authors on a budget or authors just dipping their toes into editing.'
-date: '17-09-2015 00:00'
 taxonomy:
     category:
         - blog
     tag:
+        - writing
         - author
         - editing
-        - assessment
-        - writing
         - 'developmental editing'
+        - assessment
 ---
 
-#### By Carly Bornstein-Hayward
+#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 So, you are writing a novel. As everyone will tell you (including me), you need to have it developmentally edited. But you know what sucks? It can cost a lot of money. Not everyone has that kind of money to put into a book without the promise of a return. Trust me, I get it. That is why many developmental editors now offer something called a manuscript assessment or critique. It can be helpful, whether you are preparing your manuscript for self-publishing or to submit to an agent.
 

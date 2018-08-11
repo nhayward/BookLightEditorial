@@ -1,8 +1,8 @@
 ---
 title: 'Sensitivity Readers: Expanding Your Writing'
+date: '21-01-2018 00:00'
 metadata:
     description: 'Diversity in books is imperative so children can see themselves in books. When writing diverse characters it can be helpful to have a sensitivity reader take a look at it to stay true to your characters. Despite the controversy, they can be important to publishing.'
-date: '21-01-2018 00:00'
 taxonomy:
     category:
         - blog
@@ -14,7 +14,7 @@ taxonomy:
         - 'sensitivity readers'
 ---
 
-#### by Carly Hayward
+#### by [Carly Hayward](http://booklighteditorial.com/team#carly)
 
 The sensitivity reader is somewhat of a newcomer in the publishing industry. They are the person you call when you need to step outside of your comfort zone in your manuscript, and when you want to ensure characters are authentic and well-rounded. 
 

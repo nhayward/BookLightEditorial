@@ -1,19 +1,19 @@
 ---
 title: 'Writing Coaching – Editing Your Book as You Write'
+date: '18-01-2016 00:00'
 metadata:
     description: 'Writing is a gut-wrenching process. Sometimes it can be helpful to have a coach by your side to hold your hand and help you write the best book you can.'
-date: '18-01-2016 00:00'
 taxonomy:
     category:
         - blog
     tag:
         - writing
-        - coaching
-        - editing
         - manuscript
+        - editing
+        - coaching
 ---
 
-#### By Carly Bornstein-Hayward
+#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 So you have a great idea for your next novel, but you're struggling to write it. Need some motivation? Writing coaching might be your answer! And now, by popular demand, I'm offering it as a new [service](/services) (woohoo!).
 

@@ -1,20 +1,20 @@
 ---
 title: 'How Authors Can Improve Self-Publishing'
+date: '16-04-2015 00:00'
 metadata:
     description: 'If you are considering self-publishing your book, take a look at this article on how you can make your best possible book. Self-published novels need as much editing as traditionally published ones (which is a few rounds).'
-date: '16-04-2015 00:00'
 taxonomy:
     category:
         - blog
     tag:
-        - author
         - publishing
+        - author
         - 'indie author'
         - 'self publishing'
         - 'indie publishing'
 ---
 
-#### By Carly Bornstein-Hayward
+#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 The future has enough room for both self-publishing and traditional publishing (plus hybrid publishing!). But self-publishing needs to refine itself in order to have staying power.
 

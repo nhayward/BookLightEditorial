@@ -1,8 +1,8 @@
 ---
 title: 'How to Find the Right Editor for You'
+date: '21-04-2015 00:00'
 metadata:
     description: 'Finding the right editor to help you with your manuscript can seem like an impossible task. Not just anyone will do. Take a look at our tips for finding the right person to help you edit your book.'
-date: '21-04-2015 00:00'
 taxonomy:
     category:
         - blog
@@ -14,7 +14,7 @@ taxonomy:
         - copyediting
 ---
 
-#### By Carly Bornstein-Hayward
+#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 Since writing is such a personal act, editing becomes personal. When hiring a developmental/content editor, you need to make sure you find the right one for you. It can be difficult to navigate the sea of editors available online, so here are a few tips to help.
 

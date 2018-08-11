@@ -1,20 +1,20 @@
 ---
 title: 'Top 8 Problems That Turn Readers Off'
+date: '31-05-2017 00:00'
 metadata:
     description: 'Writing a book is difficult, making sure it is a book readers will want to pick up, is even harder. Check out this post to learn more about some common problems that make readers put down your book.'
-date: '31-05-2017 00:00'
 taxonomy:
     category:
         - blog
     tag:
-        - author
-        - indieauthor
         - publishing
-        - self-publishing
+        - author
         - 'twitter event'
+        - indieauthor
+        - self-publishing
 ---
 
-#### by Carly Hayward
+#### by [Carly Hayward](http://booklighteditorial.com/team#carly)
 
 ###### This post was originally written for [the ShoreIndie Blog](https://shoreindie.blogspot.com/2017/05/top-8-problems-that-turn-readers-off.html?target=_blank), republished with permission.
 
