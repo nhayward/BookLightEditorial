@@ -11,6 +11,7 @@
     <link rel="canonical" href="{{ page.url(true, true) }}" />
 
     {% block stylesheets %}
+        {% do assets.addCss('https://fonts.googleapis.com/css?family=Source Sans Pro', 104) %}
         {% do assets.addCss('theme://css/pure-0.5.0/grids-min.css', 103) %}
         {% do assets.addCss('theme://css-compiled/nucleus.css', 102) %}
         {% do assets.addCss('theme://css-compiled/template.css', 101) %}
@@ -45,7 +46,7 @@
         <header id="header">
             <div id="logo">
                 <a href="{{ base_url == '' ? '/' : base_url }}">
-                    <img src="{{ url('theme://images/book_light_editorial_websitebanner.png') }}" />
+                    <span id="header-text">{{ site.title }}</span>
                 </a>
             </div>
             <div id="navbar">

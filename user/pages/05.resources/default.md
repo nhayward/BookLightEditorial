@@ -7,6 +7,7 @@ metadata:
 sitemap:
     changefreq: monthly
     priority: 0.5
+header_image: book_light_editorial_printerkey2_banner.png
 ---
 
 ## Writing Resources and Tips{.center}
