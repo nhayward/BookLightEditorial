@@ -13,7 +13,7 @@ visible: false
 		</div>
 		<div class="form-data">
 			<div class="form-input-wrapper">
-				<input autocomplete="on" name="entry.1507132880" placeholder="Enter your name" required="required" type="text" value="">
+				<input autocomplete="on" name="entry.1507132880" required="required" type="text" value="">
 			</div>
 		</div>
 	</div>
@@ -23,7 +23,7 @@ visible: false
 		</div>
 		<div class="form-data">
 			<div class="form-input-wrapper">
-				<input autocomplete="on" name="entry.430227335" placeholder="Enter your email address" required="required" type="email" value="">
+				<input autocomplete="on" name="entry.430227335" required="required" type="email" value="">
 			</div>
 		</div>
 	</div>
@@ -46,14 +46,23 @@ visible: false
 					<option value="partial">
 						Partial Developmental Edit Package
 					</option>
+					<option value="consultation">
+						Phone Consultation
+					</option>
 					<option value="coaching">
 						Writing Coach
+					</option>
+					<option value="substantive">
+						Substantive Edit
 					</option>
 					<option value="second">
 						Second-Read Review
 					</option>
 					<option value="copy">
 						Manuscript Copyedit
+					</option>
+					<option value="proofread">
+						Proofread
 					</option>
 					<option value="unsure">
 						Not sure yet...
@@ -64,11 +73,21 @@ visible: false
 	</div>
 	<div class="form-field">
 		<div class="form-label">
+			<label class="inline">How did you hear about us?</label>
+		</div>
+		<div class="form-data">
+			<div class="form-input-wrapper">
+				<input name="entry.854762723" type="text" value="">
+			</div>
+		</div>
+	</div>
+	<div class="form-field">
+		<div class="form-label">
 			<label class="inline">Message <span class="required">*</span></label>
 		</div>
 		<div class="form-data">
 			<div class="form-textarea-wrapper">
-				<textarea class="input" name="entry.1663698665" placeholder="Enter your message" required="required"></textarea>
+				<textarea class="input" name="entry.1663698665" placeholder="E.g. book description, genre, audience, word count, and any concerns." required="required"></textarea>
 			</div>
 		</div>
 	</div>
