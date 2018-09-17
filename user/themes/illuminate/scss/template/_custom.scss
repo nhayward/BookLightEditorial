@@ -231,6 +231,8 @@ body#top {
                     }
 
                     #homepage-logo-text {
+                        border-bottom: none !important;
+                        box-shadow: none !important;
                         margin-top: 4rem;
                         max-width: 417px;
                         padding-left: 1rem;
@@ -255,10 +257,10 @@ body#top {
                     flex-basis: 250px;
 
                     #services-link-area {
-                        justify-content: flex-start;
+                        justify-content: flex-end;
 
                         a {
-                            margin-left: 15px;
+                            margin-right: 15px;
                             background-position: 0 0;
 
                             &:hover {
@@ -270,10 +272,10 @@ body#top {
                     }
 
                     #team-link-area {
-                        justify-content: flex-end;
+                        justify-content: flex-start;
 
                         a {
-                            margin-right: 15px;
+                            margin-left: 15px;
                             background-position: 160px 0 !important;
 
                             &:hover {

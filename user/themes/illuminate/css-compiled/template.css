@@ -885,6 +885,8 @@ body#top {
         body#top #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-book:hover {
           background-position: 417px 0; }
       body#top #homepage-grid .homepage-row#bookshelves #logo-area #homepage-logo-text {
+        border-bottom: none !important;
+        box-shadow: none !important;
         margin-top: 4rem;
         max-width: 417px;
         padding-left: 1rem;
@@ -900,16 +902,16 @@ body#top {
     body#top #homepage-grid .homepage-row#bookshelves #homepage-links {
       flex-basis: 250px; }
       body#top #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area {
-        justify-content: flex-start; }
+        justify-content: flex-end; }
         body#top #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area a {
-          margin-left: 15px;
+          margin-right: 15px;
           background-position: 0 0; }
           body#top #homepage-grid .homepage-row#bookshelves #homepage-links #services-link-area a:hover {
             background-position: 0 160px; }
       body#top #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area {
-        justify-content: flex-end; }
+        justify-content: flex-start; }
         body#top #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area a {
-          margin-right: 15px;
+          margin-left: 15px;
           background-position: 160px 0 !important; }
           body#top #homepage-grid .homepage-row#bookshelves #homepage-links #team-link-area a:hover {
             background-position: 160px 160px !important; }
