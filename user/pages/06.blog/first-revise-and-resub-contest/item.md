@@ -5,14 +5,14 @@ taxonomy:
     category:
         - blog
     tag:
-        - author
-        - pitch
         - publishing
-        - query
+        - author
         - 'twitter event'
+        - pitch
+        - query
 ---
 
-#### By Carly Hayward
+#### by Carly Hayward
 
 Guess what authors?! I have good news! There is a new Twitter Pitch event run by a fabulous group of editors.
 

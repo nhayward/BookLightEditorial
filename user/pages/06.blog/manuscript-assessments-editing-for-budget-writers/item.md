@@ -14,7 +14,7 @@ taxonomy:
         - assessment
 ---
 
-#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 So, you are writing a novel. As everyone will tell you (including me), you need to have it developmentally edited. But you know what sucks? It can cost a lot of money. Not everyone has that kind of money to put into a book without the promise of a return. Trust me, I get it. That is why many developmental editors now offer something called a manuscript assessment or critique. It can be helpful, whether you are preparing your manuscript for self-publishing or to submit to an agent.
 

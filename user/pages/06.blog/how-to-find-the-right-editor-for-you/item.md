@@ -14,7 +14,7 @@ taxonomy:
         - copyediting
 ---
 
-#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 Since writing is such a personal act, editing becomes personal. When hiring a developmental/content editor, you need to make sure you find the right one for you. It can be difficult to navigate the sea of editors available online, so here are a few tips to help.
 

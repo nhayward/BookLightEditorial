@@ -1,21 +1,21 @@
 ---
 title: 'Judging Covers'
+date: '03-06-2015 00:00'
 metadata:
     description: 'As much as we would like it not to be true, covers are important when deciding which book to purchase. Self-published books are no different, so learn more about what readers think here!'
-date: '03-06-2015 00:00'
 taxonomy:
     category:
         - blog
     tag:
         - publishing
-        - 'cover design'
-        - reading
         - 'indie author'
         - 'self publishing'
+        - reading
         - 'indie publishing'
+        - 'cover design'
 ---
 
-#### By Carly Bornstein-Hayward
+#### by Carly Bornstein-Hayward
 
 ##### _Should we judge a book by its cover? Might as well, it is too hard not to!_
 

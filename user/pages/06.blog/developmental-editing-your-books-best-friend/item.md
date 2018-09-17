@@ -13,7 +13,7 @@ taxonomy:
         - 'developmental editing'
 ---
 
-#### By [Carly Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
 “Write drunk, editor sober” is a famous quote with dubious origins. While it is difficult to assign credit to the quote, its message is clear. Writing requires the author to get their creative juices flowing, to awaken their muse, no matter how they do it. But editing requires a stricter, soberer eye. An editor can see things you can’t. 
 

@@ -12,7 +12,7 @@ taxonomy:
         - query
 ---
 
-#### By Carly Hayward
+#### by Carly Hayward
 
 ###### Note: scroll to the bottom of the article for an update and a surprise!
 

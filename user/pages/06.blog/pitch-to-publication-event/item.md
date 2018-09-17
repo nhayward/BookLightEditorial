@@ -5,14 +5,14 @@ taxonomy:
     category:
         - blog
     tag:
+        - publishing
         - author
         - 'twitter event'
         - pitch
         - query
-        - publishing
 ---
 
-#### By Carly Bornstein-Hayward
+#### by Carly Bornstein-Hayward
 
 ##### Pitch to Publication begins soon!
 

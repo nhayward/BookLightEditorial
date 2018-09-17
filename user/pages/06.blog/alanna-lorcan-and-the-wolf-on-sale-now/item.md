@@ -1,21 +1,21 @@
 ---
 title: 'Alanna, Lorcan and the Wolf - On Sale Now!'
+date: '02-02-2017 00:00'
 metadata:
     keywords: 'author, on-sale, publishing, middle grade, fiction, books, adventure books'
-date: '02-02-2017 00:00'
 taxonomy:
     category:
         - blog
     tag:
+        - publishing
         - author
         - 'on sale'
         - 'middle grade'
         - adventure
         - books
-        - publishing
 ---
 
-#### By Carly Hayward
+#### by Carly Hayward
 
 Indie Author James Fallon's debut novel is on sale today!
 

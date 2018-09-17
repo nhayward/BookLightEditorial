@@ -14,7 +14,7 @@ taxonomy:
         - draft
 ---
 
-#### by [Carly Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
 Taking a break is one of the most important steps when it comes to writing a book. It can be a struggle to step away from your book after the first, second, or even third draft, but it is imperative that you do. As hard as it can be to step away, the benefits are completely worth it. 
 

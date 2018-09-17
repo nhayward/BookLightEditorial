@@ -5,14 +5,14 @@ taxonomy:
     category:
         - blog
     tag:
+        - publishing
         - author
         - 'twitter event'
         - pitch
         - query
-        - publishing
 ---
 
-#### By Carly Bornstein-Hayward
+#### by Carly Bornstein-Hayward
 
 IT'S TIME FOR PITCH TO PUBLICATION 2016 Y'ALL! Okay, I'll stop with the all-caps; I know it is obnoxious (as was the 'y'all' since I'm from Connecticut). I just get very excited about this event.
 

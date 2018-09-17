@@ -7,13 +7,13 @@ taxonomy:
     tag:
         - author
         - 'on sale'
-        - published
-        - fantasy
-        - romance
         - books
+        - published
+        - romance
+        - fantasy
 ---
 
-#### By Carly Bornstein-Hayward
+#### by Carly Bornstein-Hayward
 
 Kim Alexander's (one of my favorite authors) debut novel is on sale today!
 

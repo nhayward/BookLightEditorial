@@ -5,15 +5,15 @@ taxonomy:
     category:
         - blog
     tag:
+        - publishing
         - author
         - 'on sale'
-        - publishing
-        - fantasy
-        - romance
         - books
+        - romance
+        - fantasy
 ---
 
-#### By Carly Hayward
+#### by Carly Hayward
 
 **Best-selling author Kim Alexander’s second novel is on sale today!**
 

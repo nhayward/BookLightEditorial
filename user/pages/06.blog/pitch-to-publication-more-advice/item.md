@@ -5,14 +5,14 @@ taxonomy:
     category:
         - blog
     tag:
+        - publishing
         - author
         - 'twitter event'
         - pitch
-        - publishing
         - query
 ---
 
-#### By Carly Hayward
+#### by Carly Hayward
 
 I've been an editor with Pitch to Publication since the beginning; it is a fabulous event that brings authors, editors, and agents together. I know many authors planning to be a part of the event are clamoring for advice on what to do, how to get an editor to take a chance on you, and figuring out the magic formula to participating. Below is my best advice:
 

@@ -14,7 +14,7 @@ taxonomy:
         - 'sensitivity readers'
 ---
 
-#### by [Carly Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
 The sensitivity reader is somewhat of a newcomer in the publishing industry. They are the person you call when you need to step outside of your comfort zone in your manuscript, and when you want to ensure characters are authentic and well-rounded. 
 

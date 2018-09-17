@@ -7,13 +7,13 @@ taxonomy:
     tag:
         - author
         - 'on sale'
-        - published
         - books
+        - published
         - contemporary
         - romance
 ---
 
-##### By Carly Bornstein-Hayward
+##### by Carly Bornstein-Hayward
 
 So excited for Cheryl Harper’s new book, **Least Likely to Fall in Love**!
 

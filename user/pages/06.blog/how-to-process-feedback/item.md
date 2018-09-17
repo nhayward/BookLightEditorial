@@ -16,7 +16,7 @@ taxonomy:
         - feedback
 ---
 
-#### by [Carly Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Hayward](http://booklighteditorial.com/team#carly)
 
 ###### This post was originally written for the [ShoreIndie Blog](https://shoreindie.blogspot.com/2017/06/how-to-process-feedback.html?target=_blank), republished with permission.
 

@@ -14,7 +14,7 @@ taxonomy:
         - 'indie publishing'
 ---
 
-#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 The future has enough room for both self-publishing and traditional publishing (plus hybrid publishing!). But self-publishing needs to refine itself in order to have staying power.
 

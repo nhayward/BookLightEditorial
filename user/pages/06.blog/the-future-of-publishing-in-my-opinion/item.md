@@ -5,14 +5,14 @@ taxonomy:
     category:
         - blog
     tag:
-        - author
         - publishing
+        - author
+        - 'indie author'
         - 'self publishing'
         - 'indie publishing'
-        - 'indie author'
 ---
 
-#### By Carly Bornstein-Hayward
+#### by Carly Bornstein-Hayward
 
 Everyone knows this fairytale story: _Author self-publishes, Author becomes a bestseller, Author gets big contract with Big 5 Publisher, Author is super happy, lots of success._ Sounds lovely right? Sounds too good to be true? But as the publishing industry evolves this is going to happen more and more.
 

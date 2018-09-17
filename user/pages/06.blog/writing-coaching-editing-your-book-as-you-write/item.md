@@ -13,7 +13,7 @@ taxonomy:
         - coaching
 ---
 
-#### By [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 So you have a great idea for your next novel, but you're struggling to write it. Need some motivation? Writing coaching might be your answer! And now, by popular demand, I'm offering it as a new [service](/services) (woohoo!).
 

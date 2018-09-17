@@ -10,7 +10,7 @@ taxonomy:
         - editor
 ---
 
-#### by [Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
+#### [by Carly Bornstein-Hayward](http://booklighteditorial.com/team#carly)
 
 ##### “I had rejected the real, and rabidly devoured the ideal”
 

@@ -15,7 +15,7 @@ taxonomy:
         - proofreading
 ---
 
-#### by [Laura Dennison](http://booklighteditorial.com/team#laura)
+#### [by Laura Dennison](http://booklighteditorial.com/team#laura)
 
 At long last, you’ve done it. You’ve written your novel. You’ve slugged your way though some 80,000 words and consumed approximately 80,000 cups of coffee in the process. When you’re stuck in a traffic jam on the way home from work, you have conversations with your characters. They even make regular appearances in your dreams. By now, you’re probably feeling ready for the next step. But what, exactly, should that next step be?
 
