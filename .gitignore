@@ -16,6 +16,7 @@ Thumbs.db
 *.swp
 
 # On Server
+.well-known
 404.shtml
 home.html
 layout-styles.css
