@@ -1,8 +1,9 @@
 ---
 title: Carly
+media_order: 'BEA-Logo_panelist.png,CWIPlogo.png,EFA_logomem_85.png,shoreindie_editorbadge.png,R&Reditorfounder_small.png'
 profile_image:
     src: Book_Light_Editorial_Carly_Hayward.jpg
-    alt_text: Carly Hayward
+    alt_text: 'Carly Hayward'
 twitter_handle: FromCarly
 ---
 
@@ -22,6 +23,6 @@ When not reading or working she lounges with her husband being vastly amused by 
 
 [![EFA](EFA_logomem_85.png){.org}](http://www.the-efa.org/?target=_blank)
 [![CWIP](CWIPlogo.png){.org}](http://www.cwip.org/members/carlybornstein/profile/?target=_blank)
-[![Rev Pit](RevPit_hashtag_logo_small.png){.org}](http://www.reviseresub.com/?target=_blank)
+[![Rev Pit](R&Reditorfounder_small.png){.org}](http://www.reviseresub.com/?target=_blank)
 [![Shore Indie](shoreindie_editorbadge.png){.org}](https://shoreindie.blogspot.com/?target=_blank)
 [![Book Expo America Panelist](BEA-Logo_panelist.png){.org}](http://www.bookexpoamerica.com/?target=_blank)

@@ -1,6 +1,6 @@
 ---
 title: Grace
-media_order: RevPit_hashtag_logo_small.png
+media_order: 'R&Reditor_small.png'
 profile_image:
     src: Book_Light_Editorial_Grace_Laidlaw.jpg
     alt_text: 'Grace Laidlaw'
@@ -22,4 +22,4 @@ Grace lives in Brooklyn with her programmer boyfriend and their beloved pet couc
 !!!!!   
 !!!!! Grace specializes in adult and new adult fiction of all sorts, with particular emphasis on romance and erotica. She also enjoys both short- and long-form narrative nonfiction. Regardless of genre, a manuscript with sharply drawn characters and memorable settings will always pique her interest.
 
-[![Rev Pit](RevPit_hashtag_logo_small.png){.org}](http://www.reviseresub.com/?target=_blank)
+[![Rev Pit](R&Reditor_small.png){.org}](http://www.reviseresub.com/?target=_blank)
