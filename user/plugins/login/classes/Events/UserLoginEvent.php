@@ -1,13 +1,18 @@
 <?php
+
 /**
  * @package    Grav\Plugin\Login
  *
  * @copyright  Copyright (C) 2014 - 2017 RocketTheme, LLC. All rights reserved.
  * @license    MIT License; see LICENSE file for details.
  */
+
 namespace Grav\Plugin\Login\Events;
 
-use Grav\Common\User\User;
+use Grav\Common\Grav;
+use Grav\Common\Session;
+use Grav\Common\User\Interfaces\UserCollectionInterface;
+use Grav\Common\User\Interfaces\UserInterface;
 use RocketTheme\Toolbox\Event\Event;
 
 /**
@@ -18,7 +23,8 @@ use RocketTheme\Toolbox\Event\Event;
  * @property array              $credentials
  * @property string|string[]    $authorize
  * @property array              $options
- * @property User               $user
+ * @property Session            $session
+ * @property UserInterface      $user
  * @property string             $message
  *
  */
@@ -66,19 +72,27 @@ class UserLoginEvent extends Event
     public function __construct(array $items = [])
     {
         $items += [
-            'credentials' =>
-                (isset($items['credentials']) ? (array)$items['credentials'] : []) + ['username' => '', 'password' => ''],
+            'credentials' => [],
             'options' => [],
             'authorize' => 'site.login',
             'status' => static::AUTHENTICATION_UNDEFINED,
+            'session' => null,
             'user' => null,
-            'message' => ''
+            'message' => null,
+            'redirect' => null,
+            'redirect_code' => 303
         ];
+        $items['credentials'] += ['username' => '', 'password' => ''];
 
         parent::__construct($items);
 
+        if (!$this->offsetExists('session') && isset(Grav::instance()['session'])) {
+            $this->offsetSet('session', Grav::instance()['session']);
+        }
         if (!$this->offsetExists('user')) {
-            $this->offsetSet('user', User::load($this['credentials']['username']));
+            /** @var UserCollectionInterface $users */
+            $users = Grav::instance()['accounts'];
+            $this->offsetSet('user', $users->load($this['credentials']['username']));
         }
     }
 
@@ -129,7 +143,7 @@ class UserLoginEvent extends Event
      */
     public function getCredential($name)
     {
-        return isset($this->items['credentials'][$name]) ? $this->items['credentials'][$name] : null;
+        return $this->items['credentials'][$name] ?? null;
     }
 
     /**
@@ -158,7 +172,7 @@ class UserLoginEvent extends Event
      */
     public function getOption($name)
     {
-        return isset($this->items['options'][$name]) ? $this->items['options'][$name] : null;
+        return $this->items['options'][$name] ?? null;
     }
 
     /**
@@ -174,7 +188,15 @@ class UserLoginEvent extends Event
     }
 
     /**
-     * @return User
+     * @return Session|null
+     */
+    public function getSession()
+    {
+        return $this->offsetGet('session');
+    }
+
+    /**
+     * @return UserInterface
      */
     public function getUser()
     {
@@ -182,10 +204,10 @@ class UserLoginEvent extends Event
     }
 
     /**
-     * @param User $user
+     * @param UserInterface $user
      * @return $this
      */
-    public function setUser(User $user)
+    public function setUser(UserInterface $user)
     {
         $this->offsetSet('user', $user);
 
@@ -201,12 +223,86 @@ class UserLoginEvent extends Event
     }
 
     /**
+     * @return string|null
+     */
+    public function getMessage()
+    {
+        return !empty($this->items['message'][0]) ? (string)$this->items['message'][0] : null;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getMessageType()
+    {
+        return !empty($this->items['message'][1]) ? (string)$this->items['message'][1] : 'info';
+    }
+
+    /**
      * @param string $message
+     * @param string|null $type
      * @return $this
      */
-    public function setMessage($message)
+    public function setMessage($message, $type = null)
     {
-        $this->items['message'] = (string)$message;
+        $this->items['message'] = $message ? [$message, $type] : null;
+
+        return $this;
+    }
+
+    /**
+     * @param string $message
+     * @param string|null $type
+     * @return $this
+     */
+    public function defMessage($message, $type = null)
+    {
+        if ($message && !isset($this->items['message'])) {
+            $this->setMessage($message, $type);
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getRedirect()
+    {
+        return $this->items['redirect'] ?? null;
+    }
+
+    /**
+     * @return int
+     */
+    public function getRedirectCode()
+    {
+        return $this->items['redirect_code'] ?? 303;
+    }
+
+    /**
+     * @param string $path
+     * @param int $code
+     * @return $this
+     */
+    public function setRedirect($path, $code = 303)
+    {
+        $this->items['redirect'] = $path ?: null;
+        $this->items['redirect_code'] = (int)$code;
+
+        return $this;
+    }
+
+    /**
+     * @param string $path
+     * @param int $code
+     * @return $this
+     */
+    public function defRedirect($path, $code = 303)
+    {
+        if ($path && !isset($this->items['redirect'])) {
+            $this->setRedirect($path, $code);
+        }
 
         return $this;
     }
