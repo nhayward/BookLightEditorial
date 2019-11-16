@@ -1,6 +1,6 @@
 ---
 title: Resources
-media_order: book_light_editorial_socialmetatag.png
+media_order: 'book_light_editorial_socialmetatag.png,1619898_orig_4e18 (1).png,QuoteInvestigator.jpg,shoreindie_logo.png,JustPublishing.jpg,Pub101-cover.jpg,EFA_logo_85.png,GrammarGirl.png,MSWL_website.jpg,RevPit_Logo_small.png'
 metadata:
     description: 'Are you writing a book or getting ready to publish? We have lots of resources for authors here. You will find something to help you in your writing.'
     keywords: 'editing, freelance, publishing, writing, author, indie author, editor, self-publishing, developmental editing, copyediting, manuscript, resources, query, literary agent'
@@ -59,7 +59,7 @@ header_image: book_light_editorial_printerkey2_banner.png
 !!!!! ##### Maybe your dream is to be traditionally published and/or picked up by a literary agent. Then these resources are for you:   
 !!!!!    
 !!!!! **Revise & Resub Contest:**   
-!!!!! ![Revise & Resub](RevPit_hashtag_logo_small.png){.float-left}
+!!!!! ![Revise & Resub](RevPit_Logo_small.png){.float-left}
 !!!!! This contest says it is all about the editing (and it is), but it is mostly about the community. So many writers and editors come together to discuss writing tips and show their support.   
 !!!!!    
 !!!!! In this contest, authors will win feedback and full edits on their manuscript from professional editors, ensuring their works are polished and ready for those agent inboxes. Authors will be immersed in a supportive community of their peers, they will also have the chance to learn more about how their story fits into the industry.   
